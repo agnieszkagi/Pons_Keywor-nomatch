@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta charset="utf-8" />
+  <title>Top</title>
+</head>
+<body>
+<h2>Stats for Mon, 13 Jan 2020 21:11:13 +0100</h2><h3>frpl - fr - keyword-all (last 1h)</h3>
+28: Peruble<br />
+21: Convergance<br />
+15: Coflex<br />
+13: Dibu | caser | heureux<br />
+12: Ascention | tau | taux | être<br />
+11: Coultinisateur | bientôt<br />
+10: Dubitatof | casser | perpétuité<br />
+9: L'oreille | conter | plaire | tenir | ténacité | valide | valider | światowa<br />
+8: listonosz | patiserie (...5 more)<br />
+<h3>frpl - fr - keyword-all (last 24h)</h3>
+97: être<br />
+82: pouvoir<br />
+72: faire<br />
+62: boire<br />
+34: dire<br />
+29: revenir<br />
+23: rester<br />
+22: boîte<br />
+20: au<br />
+18: coucou | mais<br />
+17: moins | penser<br />
+16: affecteux | manger | élevé<br />
+15: épuiser<br />
+14: joindre<br />
+13: du | geler | étonner<br />
+12: Disquaire | amener | cadeau | enticher (...1 more)<br />
+<h3>frpl - pl - keyword-all (last 1h)</h3>
+29: Peruble<br />
+13: Dibu<br />
+11: nieprzychlny<br />
+10: Dubitatof | upamiętnić<br />
+9: L'oreille | Ramie | światowa<br />
+8: Zajęta | rocznica | Żołądek<br />
+7: zawód<br />
+6: Założenia | fala | szlafrok | Świadczyć | świecić<br />
+5: Salon | antisèche | budżet | kolejka | kończyć | najbliższy | silna | znów (...9 more)<br />
+<h3>frpl - pl - keyword-all (last 24h)</h3>
+67: Żuyczenia<br />
+61: Peruble<br />
+30: tak<br />
+29: tłumacz<br />
+28: kurwa<br />
+26: praca<br />
+21: petarda<br />
+20: proszę | znać<br />
+19: znaleźć<br />
+18: dziękuję | sprawa | ulubiony<br />
+17: foka | kilka | książka | pamiętać<br />
+16: dojść | parvenir | pole | styczeń | teraz | wpadać<br />
+15: aliteracja | czasami (...3 more)<br />
+<h3>frpl - unknown - keyword-all (last 1h)</h3>
+1: dwuklasowosc | illness | placageplacageracheter | soucispoussinet<br />
+<h3>frpl - unknown - keyword-all (last 24h)</h3>
+6: Dbalość<br />
+4: 180 | Dbalosc<br />
+2: tnassecni | {searchTerms}<br />
+1: 0;p0p-[;op;'-[-pop;'\'io-plp[] | 16:30 | Verbindungswörter | dwuklasowosc | egsaustif | eicsiwyzcezr | erutadidnac | exsaustif | extrinseque | ispahan | kaczmarczyk | kaiezyc | maiipoiis | nacuiagnac | placageplacageracheter | rucksack | tnadnepec | vcccccccccccccccccccccccccccccccccccccccc | verflechten | vertrauensvoll (...3 more)<br />
+<h3>frpl - fr - keyword-nomatch (last 1h)</h3>
+21: Convergance<br />
+15: Coflex<br />
+11: Coultinisateur<br />
+8: listonosz | ucho<br />
+5: listonoszka<br />
+2: Efrpl21971540 | Efrpl21996287 | boot | chanoin | delassement | illness | ouïr | plebiscite | rownowaga<br />
+1: błota | dwuklasowosc | equide | gadanie | pedofil | półdarmo | rany | relacja | siedemnasty | szykiem (...228 more)<br />
+<h3>frpl - fr - keyword-nomatch (last 24h)</h3>
+19: Lepiej<br />
+18: Convergance<br />
+16: Traiteur | Tro | affecteux<br />
+15: Coflex | L'horloger<br />
+14: Revelant | Stół | Suavite<br />
+13: Amore | Chapeu | Drecha | Fouberie | Nox | Substituive | tra<br />
+12: Comptwr | Hiszpanskojezyny | Kasier | Piłka | Primate | Router | Souillure | entiché (...4 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 1h)</h3>
+11: nieprzychlny<br />
+10: upamiętnić<br />
+3: ugotuj<br />
+2: abbaye | przełóż<br />
+1: Cordialment | Efrpl22089901 | Othello | araignée | biorythme | bizarne | bravo | charnière | choyer | constitutionnel | divination | fourni | insurrection | numérter | papillonner | polytechnique | pomidora | référer | ski | virement (...111 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 24h)</h3>
+15: Jus | Pozmywac | aliteracja | zamarć<br />
+14: Aolna | Meksykanie<br />
+13: Curiel | Trauma<br />
+12: Eau | Matyjasy | Sio | Szatyn | Szatynka | iloczas<br />
+11: Kochamie | Negation | Souriant | hostel | nieprzychlny | prozodia<br />
+10: Manoir | Minione | Raconter | Skrzat | garage (...3 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 1h)</h3>
+29: Peruble<br />
+12: Ascention | Dibu<br />
+10: Dubitatof<br />
+9: patiserie<br />
+8: Chffon | Dubitif | Zajęta<br />
+7: Dubitatif<br />
+5: Extrairdinaire | Przysłaniać | Przyćmiewać<br />
+4: Empruntrr | Rozdwojony<br />
+3: Sousantandit<br />
+2: Freud | bezmoślny | charing | loustic | ribambelle | surgissement<br />
+1: accquerir | braqueur | briefer | smartphone (...167 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 24h)</h3>
+67: Żuyczenia<br />
+61: Peruble<br />
+13: Cjateau<br />
+12: Ascention | Bartir | Demengar | Dibu | Distraitement | Montet | Usmiec<br />
+11: Ceration | Float | Intendire | Ofglos | Podprogowy | Politolog | Szturna | Tuelle | kucharka<br />
+10: Pacifier | Pupuce | centimen | fouir | manioc | partouser (...15 more)<br />
+<h3>frpl - fr - phrase-all (last 1h)</h3>
+19: si cala fon<br />
+9: rewolucja francuska<br />
+8: C' est | Liste de diffusion<br />
+7: nom d'usage<br />
+6: Mais l'objectif est aussi de "casser le cycle de la dépendance" selon les mots du ministère du Travail et des Pensions. Le ministre Iain Duncan Smith veut que les chômeurs se réhabituent à se "présenter le matin à 9h et repartir l'après-midi à cinq heures. Il s'agit de leur redonner "une routine de travail, ce qui rendra leur profil bien plus intéressant pour un employeur qui cherche à pourvoir un poste", explique une source proche du ministère britannique du Travail au Guardian. Accessoirement, cela permettra aussi de détecter les "faux chômeurs" qui travaillent sans le déclarer.
+Est-ce que ce sera efficace ? | si kala fon<br />
+5: la plus<br />
+4: La plus | Le projet de Iain Duncan Smith paraît drastique. Il s'inscrit pourtant parfaitement dans la tradition anglo-saxonne du "workfare", ce mélange de "welfare" (aide sociale) et "work" ( travail). Largement diffusés aux États-Unis puis au Royaume-Uni dans les années 90, les programmes de workfare posent comme principe que les bénéficiaires de l'aide sociale doivent travailler, notamment pour les services municipaux, pour toucher leur allocation.
+
+Pour ce qui est des sanctions, elles aussi existent déjà au Royaume-Uni pour ceux qui refusent un certain nombre d'offres d'emploi. "Elles sont toutefois appliquées de manière très hétérogène selon les bureaux d'emploi locaux ", relativise Christine Erhel, chercheuse au Centre d'études de l'emploi. | bonne nuit<br />
+3: Rok szkolny | ma soeur | przeprowadzać się | sans aucun | sela vie<br />
+2: Bez sensu | Si kala fon | a l'exode | double processus | du tout | dzień dobry | nie ma za co | quel que soit | se faufiler (...49 more)<br />
+<h3>frpl - fr - phrase-all (last 24h)</h3>
+51: comme ci comme ca<br />
+36: si cala fon<br />
+25: JE T AIME<br />
+16: do widzenia<br />
+15: comment sava | nie ma za co | żeli papą<br />
+14: si kala fon<br />
+13: Le fleuriste | auprès de | Ça je dit rien<br />
+12: c'est dommage mais c'est probablement la fin des affaires, puisque 40 € c'est un problème .. | et voila | la rame | sela vie | tant pis<br />
+11: Ca te dire | De pionte du | Faire du linge | La rame | Se positionner | dzień dobry | la vie en rose | proszę bardzo | wszystkiego najlepszego (...5 more)<br />
+<h3>frpl - pl - phrase-all (last 1h)</h3>
+11: Palec u stopy<br />
+9: rewolucja francuska<br />
+8: Liste de diffusion | polsko francuski | si cala fon<br />
+6: Mettre du temps | slownik polsko francuski<br />
+5: la plus | przeprowadzać ię<br />
+4: La plus | bonne nuit<br />
+3: Rok szkolny | basen z kulkami | dzisiaj jest | ja ty on ona ono | kasa samoobsługowa | ma soeur | odpuścić sobie | przeprowadzać się | rozstac się z | sans aucun | styl życia | wspaniała wiadomosc | za mało | ziele angielskie<br />
+2:  (...45 more)<br />
+<h3>frpl - pl - phrase-all (last 24h)</h3>
+80: slownik polsko francuski<br />
+51: polsko francuski<br />
+25: JE T AIME<br />
+17: si cala fon<br />
+16: do widzenia<br />
+15: nie ma za co<br />
+13: Co lubisz | Jak się czujesz<br />
+12: Dobry czas | Znajdowały się | et voila | tant pis<br />
+11: Fait froid | Jak wyglądasz | Na konie | Palec u stopy | Wpisz szukany wyraz | bon voyage | c'est dommage mais c'est probablement la fin des affaires, puisque 40 € c'est un problème .. | dzień dobry | proszę bardzo | wszystkiego najlepszego<br />
+10: Dans mon temps | Kiedy jej się chce | Po kolacji (...1 more)<br />
+<h3>frpl - unknown - phrase-all (last 1h)</h3>
+1: 5 lat pozniej | A ty robilas w sobote? | Boję się małych psów. | Boję się nadzwyczajnych wąsów. | Boutique de souvenirs | Je viens de réaliser qu'est-ce que je t'attendais | Le distributeur automatique de billets | Na samym końcu wróciliśmy do domu i obejrzeliśmy komedie, która wszystkim się podobała | Taki super dzień miałam w sobotę | basen z kulkami | bureau du tabac | ca sera gentil d’apporte | czy to jest mozliwe do sprawdzenia? | double processus | givenchy l'interdit | je vous remercie pour votre invitation | jeśli masz problem daj znać | miał temperaturę i źle się czuł | podjac wysilek | schodzic ze schodow | schodzić ze schodów | tu attends un queue au supermarche | wyciagać z kieszeni￼ | właśnie tak przebiegła moja ostatnia sobota | yin tsoi (...1 more)<br />
+<h3>frpl - unknown - phrase-all (last 24h)</h3>
+3: Tu sais la femme dans une relation pour moi c'est celle qui ne fuit ces engagements quelque soit le jadis vécu. Je saurai fabriquer celle qui veut vraiment avoir un engagement sans avoir peur et se donnera a fond pour que ensemble nous soyons qu'un. Je suis pas parfait j'ai aussi des défauts et des qualités. Je suis très bien consciente de ma vie et de ce qui me rendra heureux. Je sais aussi que c'est pas facile quand on n'a eu mal ou on n'a été blesser ou déçu par quelqu'un une fois ou même quand on n’a peur d’avoir mal ou d’être trahir. Je suis bien d’accord que tu es peur d’être déçu . Mais quand on veut être heureux quelque soit ce qu’on n’a vécu dans le passé on essaie d’oublier un peu le jadis et je ne sais quoi d'autres on le met de côté et on vit une vie sans regret une vie sans peur. Si tu crois vraiment en toi et moi tout est possible restons juste unis et fort dans l’esprit. On sera un couple bien demain. Je ne suis pas un homme qui profite au déprimant des autres. Je ne profite pas de la faiblesse de celle qui est amoureuse de moi mais je fais de mon possible pour qu’on ne soit pas déçu de moi.<br />
+2: Cloison complète tolée, Plancher bois antidérapant avec habillage latéral bois, R-Plug | Hey je viens de voir ce message. Ce n'est pas ça, c'est juste que j'ai pas l'impression de te plaire plus que ça. Sinon je n'ai rien contre toi bien au contraire | Sache qu'en toi j'ai découvert un être que je considère comme exceptionnel, un être à part qui a enfin réussi à me permettre d'être moi-même et j’ai confiance en toi, à ce que nous pourrons partager et merci à la vie d'avoir eu la chance de croiser ton chemin, merci à toi d'être resté sur le mien. | dobrze, zdobyłam osiemnaste miejsce na 42 zawodniczki , to niezły wynik | ecąjazskęeiwop ołkzs | il est plus à l’aise | je demande la clé | je n’attendais que vous | o smaku korzennym | pasztet o smaku arabski | wczoraj było ładnie<br />
+1: Je suis dans un cours sur la société | est-ce que vous voulez de l’aide pour préparer la soirée? | franchissent le pas | jadąc na lekcje zgubiła telefon | jej rodzice spali | jest umięśniona | j’ai fait de ce que j’avais fair | le tgv en provenance de Paris- Monstparnasse est annoncé avec cinq minutes de retard | następnie poszliśmy do włoskiej restauracji i jedliśmy same fobre rzeczy | nie mam ovhoty na ciasto | rendre faible | se faire duper | zepsuć samochód (...475 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 1h)</h3>
+12: si cala fon<br />
+7: nom d'usage<br />
+6: Mais l'objectif est aussi de "casser le cycle de la dépendance" selon les mots du ministère du Travail et des Pensions. Le ministre Iain Duncan Smith veut que les chômeurs se réhabituent à se "présenter le matin à 9h et repartir l'après-midi à cinq heures. Il s'agit de leur redonner "une routine de travail, ce qui rendra leur profil bien plus intéressant pour un employeur qui cherche à pourvoir un poste", explique une source proche du ministère britannique du Travail au Guardian. Accessoirement, cela permettra aussi de détecter les "faux chômeurs" qui travaillent sans le déclarer.
+Est-ce que ce sera efficace ? | si kala fon<br />
+4: Le projet de Iain Duncan Smith paraît drastique. Il s'inscrit pourtant parfaitement dans la tradition anglo-saxonne du "workfare", ce mélange de "welfare" (aide sociale) et "work" ( travail). Largement diffusés aux États-Unis puis au Royaume-Uni dans les années 90, les programmes de workfare posent comme principe que les bénéficiaires de l'aide sociale doivent travailler, notamment pour les services municipaux, pour toucher leur allocation.
+
+Pour ce qui est des sanctions, elles aussi existent déjà au Royaume-Uni pour ceux qui refusent un certain nombre d'offres d'emploi. "Elles sont toutefois appliquées de manière très hétérogène selon les bureaux d'emploi locaux ", relativise Christine Erhel, chercheuse au Centre d'études de l'emploi.<br />
+3: sela vie<br />
+2: Boutique de souvenirs | Dans ma campagne il ya un seul magasin qui est a la fin... | Londres s'apprête à prendre des mesures choc pour lutter contre le chômage et réduire le déficit. Le dispositif qui sera présenté cette semaine prévoit que les 1,2 million de chômeurs de longue durée effectuent au moins 30 heures de travail gratuit par semaine au profit de la collectivité. Ils réaliseraient pendant quatre semaines des travaux manuels ou d'entretien de la voirie au bénéfice de services municipaux, d'associations ou de compagnies privées. Et pas question d'y échapper. Ceux qui refuseraient perdraient pendant au moins trois mois leurs allocation hebdomadaire. Celle-ci est de 65 livres sterling (75 euros) pour les plus de 25 ans et de 51 livres (59 euros) pour les moins de 25 ans. En échange, le gouvernement verserait aux chômeurs un nouveau "crédit universel" qui remplacerait les catégories d'allocations existantes. Ces mesures drastiques doivent permettre de réduire la facture des allocations, qui coûtent 190 milliards de livres (220 milliards d'euros) à l'Etat par an. "Ayant promis qu'il ne toucherait pas à la santé et aux écoles, si le gouvernement veut réduire les dépenses publiques c'est bien aux allocations chômage qu'il doit s'attaquer", relève une éditorialiste du Guardian. | Non seulement la mesure pourrait être inefficace, mais elle pourrait s'avérer nocive et démoralisante. La tête de la Church of England redoute en effet qu'on ne plonge les chômeurs dans "une spirale d'incertitude, voire de désespoir". C'est une chose de les former, ou de les conseiller, "c'en est une autre de les humilier", écrit Jackie Ashley dans le Guardian.
+
+Enfin, le système risque même de provoquer certains effets pervers. Car pendant qu'ils ramasseront les poubelles ou feront du jardinage, les chômeurs ne seront pas en train de chercher du travail. "Il serait plus raisonnable de les faire travailler un jour par semaine pour qu'ils aient quatre jours de libre pour chercher un emploi", suggère donc le blogueur Brennybaby. Pire, certains employés pourraient se retrouver en concurrence avec les chômeurs. "Des postes rémunérés pourraient être supprimés et réapparaître dans le secteur bénévole", s'inquiète ainsi The Independant. | Salut frère j'ai passé un bon week-end et vous ? Je suis heureuse que vous nous accueillez dans votre vie. Vous êtes un très beau couple. 🙂Marcin tu ressemble beaucoup à notre frère Sylwester. Nous prendrons le temps de nous découvrir. Et j'espère vous rencontrer cette année. 2020 🥰🇵🇱 | a l'exode | autant plus | basen z kulkami | comment sava | double processus | gestion moteur repar demandee | in fine | nihil novi | non pas du tout | prendre son envol | prevoir rdv entretien | schodzic ze schodow | se arrêter | yin tsoi (...6 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 24h)</h3>
+25: si cala fon<br />
+15: comment sava | żeli papą<br />
+14: si kala fon<br />
+13: Le fleuriste | Ça je dit rien<br />
+12: la rame | sela vie<br />
+11: Ca te dire | La rame | Se positionner | Ça je dit również<br />
+10: A faire qqch | C'est une fille | Convoi exceptionnel | Uduszę cię<br />
+9: LA  rame | Niveau d huile correct | Tak spędziłam | Tortues des iles | devoir odmiana | est-ce que vous avez un numéro de téléphone? | se deperdir<br />
+8: le figaro | nom d'usage (...4 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 1h)</h3>
+11: Palec u stopy<br />
+8: polsko francuski<br />
+6: Mettre du temps | slownik polsko francuski<br />
+3: basen z kulkami | ja ty on ona ono<br />
+2: Chciałbym móc trzymać cię w ramionach | Interesuję się historią, siatkówką i skokami narciarskimi. | Jak bardzo | Maly chlopiec wstał | Nie niemowie | czy to jest mozliwe do sprawdzenia? | dziwny hałas | dzięki czemu mogę mieć świeże mleko od krów | jedna osoba wchodzi w słowo drugiej | kora dębu | na Pacyfiku | na początku kwietnia | on nie słucha swego ojca, myśli o czymś innym | schodzić ze schodów | ta dit quoi | ta wyspa położona jest na oceanie | vagin a poil | wyciagać z kieszeni￼ | za mało (...3 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 24h)</h3>
+80: slownik polsko francuski<br />
+50: polsko francuski<br />
+13: Co lubisz | Jak się czujesz<br />
+11: Jak wyglądasz | Na konie | Palec u stopy<br />
+10: Po kolacji<br />
+9: Czy jest możliwość | Skrobać szyby<br />
+8: Czy jest możliwe | Język finlandzki | dobro wraca | mieć okazję<br />
+7: Akademia muzyczna | Inna droga<br />
+6: Mettre du temps | niveau d`huile a reajuster<br />
+5: Moj ulubiony aktor gra w tym filmie | Plus tard | Starszy brat | appuyer sur frein start | my jesteśmy francuskimi dziwkami | ça été ta journée<br />
+4: pozdrawiam serdecznie (...12 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 1h)</h3>
+5: przeprowadzać ię<br />
+3: kasa samoobsługowa | wspaniała wiadomosc<br />
+2: W mojej lodówce | pour le mieux<br />
+1: Boję się małych psów. | Un roman | Un titre | double processus | dzieła sztuki | dzięki niech | en pencer | jeśli masz problem daj znać | kora dębu | krzaczaste brwi | la croisement | les fonds | les pires | na promocji | podjac wysilek | se sembler | tener compte | tu attends un queue au supermarche | une offrand | yin tsoi (...64 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 24h)</h3>
+12: Dobry czas | Znajdowały się<br />
+11: De pionte du | Faire du linge | Wpisz szukany wyraz | c'est dommage mais c'est probablement la fin des affaires, puisque 40 € c'est un problème .. | fait des erreurs<br />
+10: Dans mon temps | De pioner du | Kiedy jej się chce<br />
+9: De pionte du Coeur | De pionte ducoeur | De pointe du | Mettre en l'ordre | Przepraszam za spoznienie | Sinistre reprise | Zaparkować za rogiem | base nautique | on fait des erreurs | page ci contre<br />
+8: Aire de jeux | De facon qu | I tak wkolo | expressivité des sens | la plaisir (...9 more)<br />
+<h3>frpl - fr - entry-ids (last 1h)</h3>
+14: Efrpl21889975: attaché-case<br />
+13: Efrpl21901422: case | Efrpl21901431: caser | Efrpl21946827: heureux | Efrpl21976365: peut-être | Efrpl21983363: qui est-ce que | Efrpl34107907: heureux | Efrpl53963557: être aux anges<br />
+12: Efrpl21930366: être | Efrpl22001394: taux | Efrpl34905125: être imputable à<br />
+11: Efrpl21894986: bientôt | Efrpl21929609: est-ce que | Efrpl21983371: qui est-ce qui<br />
+10: Efrpl21893983: beau-père, beau-père | Efrpl21901560: casser | Efrpl21975731: perpétuité | Efrpl21978182: plus-que-parfait | Efrpl22008990: valide | Efrpl22008999: valider<br />
+9: Efrpl21977473: plaire | Efrpl22002180: ténacité | Efrpl22002314: tenir | Efrpl37847743: à n’en plus finir | Efrpl39250024: conter<br />
+8:  (...15 more)<br />
+<h3>frpl - fr - entry-ids (last 24h)</h3>
+134: Efrpl21993002: savoir-faire<br />
+128: Efrpl53963557: être aux anges<br />
+127: Efrpl53844740: passer/donner un coup de fil<br />
+115: Efrpl21976365: peut-être<br />
+97: Efrpl36972145: avoir un coup de coeur<br />
+72: Efrpl22012401: voir<br />
+66: Efrpl21997164: sortir<br />
+65: Efrpl33392193: avoir l'esprit mal tourné<br />
+56: Efrpl21912407: courir | Efrpl37000942: tout du moins<br />
+53: Efrpl21891783: avoir<br />
+38: Efrpl21913676: croire<br />
+32: Efrpl21961198: marche<br />
+26: Efrpl21901528: casse-cou<br />
+25: Efrpl21937629: fort | Efrpl21986489: regarder<br />
+24: Efrpl34092084: répondre<br />
+22: Efrpl21901599: casse-tête | Efrpl21912272: cour<br />
+20: Efrpl21901560: casser | Efrpl21902878: chambrer<br />
+19: Efrpl21902864: chambre | Efrpl39238250: chagrin<br />
+18: Efrpl22000488: tabler | Efrpl33379109: lunettes<br />
+17:  (...4 more)<br />
+<h3>frpl - pl - entry-ids (last 1h)</h3>
+9: Efrpl22125138: ramię<br />
+8: Efrpl22126566: rocznica | Efrpl22170399: żołądek<br />
+7: Efrpl22139068: szlafrok | Efrpl22164129: zawód | Efrpl22164140: zawód<br />
+6: Efrpl22057925: fala | Efrpl22141245: świadczyć | Efrpl22141427: świecić | Efrpl22141587: święcić<br />
+5: Efrpl22042105: budżet | Efrpl22042820: bywać | Efrpl22076010: kolejka | Efrpl22078157: kończyć | Efrpl22087211: marznąć | Efrpl22102314: odpuszczać | Efrpl22123050 | Efrpl22130146: salon | Efrpl22133991: soczewica | Efrpl22141898: tak | Efrpl22157224: wystarczający | Efrpl22168378 | Hfrpl22093271<br />
+4: Efrpl22163419: zaświadczać | Hfrpl22050745: dojść (...17 more)<br />
+<h3>frpl - pl - entry-ids (last 24h)</h3>
+41: Efrpl22156104: wymowa<br />
+34: Efrpl22141898: tak<br />
+29: Efrpl22118523: praca | Efrpl22143276: tłumacz<br />
+25: Efrpl22047957: czytać<br />
+22: Efrpl22065395: gwiazda | Efrpl22142025: tam | Hfrpl22168092: znaleźć<br />
+21: Efrpl22069340: iść<br />
+20: Efrpl22167960: znać<br />
+18: Efrpl22115493: ponieważ<br />
+17: Efrpl22047268: często | Efrpl22059482: foka | Efrpl22107428: pamiętać | Efrpl22137159: styczeń | Efrpl22170399: żołądek<br />
+16: Efrpl22047259: cześć | Efrpl22047304: część | Efrpl22067517: ile | Efrpl22078157: kończyć | Efrpl22142806: teraz | Efrpl22153046: wpływać | Hfrpl22050745: dojść<br />
+15: Efrpl22046956: czasami | Efrpl22170439: żona (...5 more)<br />
+<h3>frpl - fr - translation-ids (last 1h)</h3>
+12: Tfrpl22004630: tour de France<br />
+10: Tfrpl21935457: fin de siècle | Tfrpl21989855: la Révolution | Tfrpl21995210: si | Tfrpl22002717: la Terreur<br />
+9: Tfrpl21930400: la voiture la plus économique qui soit | Tfrpl21944991: la Première/Seconde Guerre mondiale | Tfrpl21958557: lobe de l'oreille | Tfrpl21963176: à mesure que nous avancions, la forêt devenait plus épaisse | Tfrpl21971016: avoir l'oreille fine | Tfrpl21971017: avoir l'oreille fine | Tfrpl21971020 | Tfrpl21971021 | Tfrpl21973472 | Tfrpl21978132 | Tfrpl21980340: première mondiale | Tfrpl21981430: la ville la plus proche | Tfrpl21997327: souffler qc à l'oreille de qn | Tfrpl21997328: souffler qc à l'oreille de qn<br />
+8: Tfrpl21897310: savoir qc sur le bout des doigts | Tfrpl21897340: on a bu une bonne bouteille de vin | Tfrpl21951961: s'inscrire sur une liste | Tfrpl21986796: [faire] réinscrire qn/qc sur une liste | Tfrpl21986800: se [faire] réinscrire sur une liste | Tfrpl21995725: en toute sincérité (...8 more)<br />
+<h3>frpl - fr - translation-ids (last 24h)</h3>
+65: Tfrpl22004630: tour de France<br />
+63: Tfrpl21935457: fin de siècle<br />
+55: Tfrpl21907469: comme ci comme ça<br />
+45: Tfrpl21890747: bon appétit! - merci, vous aussi!<br />
+32: Tfrpl21982727: pute<br />
+26: Tfrpl21907510: comment ça va? | Tfrpl21995210: si<br />
+24: Tfrpl21962961: merci à vous pour tout<br />
+22: Tfrpl21962960: merci bien<br />
+21: Tfrpl21891835: il n'y a pas de quoi! | Tfrpl21962959: merci | Tfrpl21996472: du soir au matin<br />
+20: Tfrpl21992101: toute la salle<br />
+17: Tfrpl22007303: si ça se trouve, il va pleuvoir<br />
+16: Tfrpl21961204: se mettre en marche<br />
+15: Tfrpl21886074: mon amour | Tfrpl21973413: parler français | Tfrpl21995091: sex-appeal | Tfrpl21995174: ah si je les tenais!<br />
+14: Tfrpl21973533: citoyen à part entière | Tfrpl21973534: un Français à part entière | Tfrpl21985118: réapprendre | Tfrpl21985119: réapprendre à marcher<br />
+13: Tfrpl21901513: il va y avoir de la casse | Tfrpl21973282: je voudrais une glace - quel parfum?<br />
+12:  (...7 more)<br />
+<h3>frpl - pl - translation-ids (last 1h)</h3>
+10: Tfrpl22126277: rewolucja francuska Wielka Rewolucja Francuska<br />
+9: Tfrpl22031905: słuch absolutny | Tfrpl22041806: to brzmi dobrze | Tfrpl22048013 | Tfrpl22086597: małżowina uszna | Tfrpl22092936 | Tfrpl22093380: najpóźniej w połowie miesiąca | Tfrpl22094362: ich dom jest większy od naszego | Tfrpl22095549 | Tfrpl22113586: podsłuchiwać | Tfrpl22114827 | Tfrpl22123317: cała przyjemność po mojej stronie | Tfrpl22125195: sprawa najwyższej rangi | Tfrpl22131102: bez sensu | Tfrpl22132029: na skalę światową | Tfrpl22152679<br />
+8: Tfrpl22043064: cała ona! | Tfrpl22043065: cała nuta | Tfrpl22050305: [przez] całą dobę | Tfrpl22098436: całą noc | Tfrpl22106053: z całą ostrością | Tfrpl22138703: otworzyć okno na całą szerokość | Tfrpl22139633: [cała] sztuka w tym, żeby... | Tfrpl22153012: wpisywać się na listę | Tfrpl22162815: niż obejmuje swoim zasięgiem całą Europę (...1 more)<br />
+<h3>frpl - pl - translation-ids (last 24h)</h3>
+56: Tfrpl22141906: kocham cię – ach tak?<br />
+35: Tfrpl22094251: następny proszę!<br />
+31: Tfrpl22144993: mam cię!<br />
+28: Tfrpl22165231: zdobyć się na zrobienie czegoś<br />
+27: Tfrpl22129351: proszę się nie ruszać<br />
+24: Tfrpl22094772: dziękuję, nawzajem! | Tfrpl22165344: jak zdrowie?<br />
+23: Tfrpl22105639: osiągać miejsce przeznaczenia | Tfrpl22153052: wpływać<br />
+22: Tfrpl22082483: ile masz lat?<br />
+21: Tfrpl22043064: cała ona!<br />
+20: Tfrpl22043065: cała nuta<br />
+19: Tfrpl22035961: przyszłam, ażeby cię przeprosić | Tfrpl22116394: w porządku! | Tfrpl22167966: nie chcę cię znać<br />
+16: Tfrpl22045334: komuś ciarki przechodzą po plecach | Tfrpl22094597: naukowo<br />
+15: Tfrpl22044017: niech się dzieje, co chce | Tfrpl22166710: to mnie ani ziębi, ani grzeje<br />
+14: Tfrpl22166745: dzisiaj jest bardzo zimno<br />
+13: Tfrpl22044112: mieć chęć na coś/coś zrobić | Tfrpl22082484: mam piętnaście lat | Tfrpl22166611: Zielone Świątki<br />
+12: Tfrpl22035963: chciałbym, ażeby wróciła szybko | Tfrpl22044013: właśnie chciałam do ciebie zadzwonić (...8 more)<br />
+</body>
+</html>
