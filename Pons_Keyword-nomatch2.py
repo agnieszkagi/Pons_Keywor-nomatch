@@ -25,21 +25,4 @@ encoding = "utf-8"
 texto = keyword_list[0].decode(encoding)
 nomatch_list = texto.split("<h3>")
 
-
-# print(texto)
-
-# print(nomatch_list[7])
-
-"""
-ponsFile = open(file_name, "wb")
-for chunk in res.iter_content(100000):
-    ponsFile.write(chunk)
-for line in file_name:
-    file_content += line
-ponsFile.close()
-
-# nomatch_list = file_content.split("<h3>")
-
-# print(nomatch_list[2])
-print(file_content)
-"""
+print(nomatch_list[7:13])

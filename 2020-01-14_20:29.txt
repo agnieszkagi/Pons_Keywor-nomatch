@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta charset="utf-8" />
+  <title>Top</title>
+</head>
+<body>
+<h2>Stats for Tue, 14 Jan 2020 20:29:38 +0100</h2><h3>frpl - fr - keyword-all (last 1h)</h3>
+25: Tenir<br />
+20: entrer<br />
+17: entrée<br />
+15: nuer<br />
+13: Zatem | pouvoir<br />
+12: supérieur | taper<br />
+11: aimer | pourtant | ranger<br />
+10: M'Inscris | nué | être<br />
+9: Partager | Pier | candidature | pousser | vingt | étroit<br />
+8: Compoter | Renove | toucher | voir | vouloir (...6 more)<br />
+<h3>frpl - fr - keyword-all (last 24h)</h3>
+116: être<br />
+88: pouvoir<br />
+83: faire<br />
+44: boire<br />
+35: entreprendre<br />
+28: bête<br />
+26: étonner<br />
+25: boîte<br />
+22: avant<br />
+20: épuiser<br />
+18: moins | revenir<br />
+17: broyer<br />
+15: Motricite<br />
+14: Act | Bőtel | abreuver | amener | attitude | mais<br />
+13: afficher | courriel<br />
+12: distrait | livreur<br />
+11: main (...1 more)<br />
+<h3>frpl - pl - keyword-all (last 1h)</h3>
+12: Crèche<br />
+11: animal<br />
+10: Odetchnij | kask | wojtek<br />
+9: Pier | jade | jadę | polski | prestiżowy<br />
+8: Enteuse | Ralliement | kończe | peur | wyszczególniać<br />
+7: Bugger | Peti | Wypunktowac | skręcać<br />
+6: Tenis | dworzec | lekcje | marzec | tłumacz | ulica (...1 more)<br />
+<h3>frpl - pl - keyword-all (last 24h)</h3>
+103: Naznaczony<br />
+57: Mieć<br />
+46: tłumacz<br />
+38: wymowa<br />
+31: chcieć<br />
+26: Nowy<br />
+25: parvenir<br />
+20: Czten<br />
+19: promocja<br />
+18: cześć | naleśnik<br />
+17: Pokrowiec | dużo<br />
+16: Potezna | Przyszyć | błąd | spotkanie | szczęście | zabierać<br />
+15: Lait | Salade | cel | dotyczyć | wybór | żaba<br />
+14:  (...12 more)<br />
+<h3>frpl - unknown - keyword-all (last 1h)</h3>
+1: binom | rapidos | retolpmoc<br />
+<h3>frpl - unknown - keyword-all (last 24h)</h3>
+4: Depechons | Nasendtüber<br />
+1: %EF%BF%BDcran | %EF%BF%BDponge | Faits-diverd | Hshssshisjwbs | abwägig | adénocarcinome | binom | canap%EF%BF%BD | dommages-interets | frtsvhr | hmpff | rapidos | retolpmoc | t%EF%BF%BDl%EF%BF%BDphone | tatzelwum | złowróżebne | Żartujesz<br />
+<h3>frpl - fr - keyword-nomatch (last 1h)</h3>
+13: Zatem<br />
+9: M'Inscris<br />
+8: Renove<br />
+5: Luksusowy<br />
+2: Auchan | Efrpl21968301 | Słowik | Zelandia | d&#38;&#35;39&#59;immigration | l&#38;&#35;38&#59;&#38;&#35;35&#59;39&#38;&#35;59&#59;avalanche | monrterai | odstęp | peignture | regorger | trumnA | vife | wykprzystać | égérie<br />
+1: Sidération | Suopconne | hamować | milionów | remplison | sedes | zaspokajać (...262 more)<br />
+<h3>frpl - fr - keyword-nomatch (last 24h)</h3>
+18: Kotlet<br />
+17: Jaki<br />
+16: Boulee | Trendy<br />
+15: Marinew | Motricite<br />
+14: Act | Bőtel | Ceduits | Debarasser | Invoquer | Peressuer | Songe-creux<br />
+13: Batteraves | Caoacite | Complex | Prmetre | Wida | Zatem | actuallement | s`affairer<br />
+12: Harenfs | Kapitan | Laverr | Épreube (...4 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 1h)</h3>
+12: Crèche<br />
+11: animal<br />
+10: Odetchnij<br />
+9: jade | jadę<br />
+8: Ralliement | kończe | peur<br />
+4: Primeur | Ugotować | busem<br />
+2: Aleksandra | CHASSER | fajki | ger | kostiumografia | poprzedniego | schamig | uczesanie | wartka | wartki | wyśmienita<br />
+1: demblée | encadrement | kalosze (...174 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 24h)</h3>
+20: Czten<br />
+16: Potezna<br />
+15: Lait | Salade<br />
+14: Nottament<br />
+13: Głębokie | Pommes | Zygota<br />
+12: Burna | Crèche | Mettrais | Nerkowce | Pates | animal<br />
+11: Tomber | Zaprzeczanie<br />
+10: Nourrir | Odorat | Powodują | Przyszyć | Szczytować | joue | pieknie | pieknje | seriale (...5 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 1h)</h3>
+10: wojtek<br />
+9: Pier<br />
+8: Compoter | Enteuse | Refillable<br />
+7: Bugger | Epoumoner | Peti | Wypunktowac<br />
+6: Aigrefin | Pretoire<br />
+5: Zaslugowac | Zmagania | narjotyki<br />
+4: quilement<br />
+3: Autogerer | Crachin | Paleron | Vicissitude | hégémonique | posteriorite | seoir | Éclaircices<br />
+2: Enourgueillir | crayom (...5 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 24h)</h3>
+103: Naznaczony<br />
+25: Aceuil<br />
+17: Genail | Tips<br />
+15: Ładowarka<br />
+13: Souillure | flatulence<br />
+12: Croyer | Espahnile | Malfrat | Peniesione | Prioriser | Przenuesione | S'agir | Zakopać<br />
+11: Bezpyłowe | Bouteler | Conaissent | Connaise | Drogon | Esseyer | Proactif | Reverance<br />
+10: Attemment | Zatoki (...18 more)<br />
+<h3>frpl - fr - phrase-all (last 1h)</h3>
+20: Se gacher<br />
+15: Le droit penal | Se gachem<br />
+14: Le polar | qui vole un oeuf vole un boeuf<br />
+11: La tante | proszę bardzo<br />
+10: La soeur<br />
+9: Au dela<br />
+8: La legalite | Ta toateta<br />
+7: BON VAJAZ | L aveu<br />
+6: comme ci comme ca<br />
+5: Grand pere | Le campagne<br />
+4: Aller diner | C'est ce-que | Il pleut de cordes | bien sur | et voila<br />
+3: Ok je vais te bloquer c'est la meilleure solution parce que tu m'aime pas, j'ai besoin de ton aide comme aide de tout le monde et tout ce que tu trouve a me dire c'est que je t'aime pas parce que j'ai demandé de faire ton possible pour moi, sa se voit que tu es pas prête a m'aider | między innymi | savoir gagner | si cala fou (...10 more)<br />
+<h3>frpl - fr - phrase-all (last 24h)</h3>
+57: comme ci comme ca<br />
+43: si cala fon<br />
+27: JE T AIME<br />
+24: proszę bardzo<br />
+20: Se gacher | le filet<br />
+19: Aux marrons | viande de veau<br />
+18: Est ce que tu aimes les chats | Le pâté | Les gros haricots<br />
+17: La bûche de noel | La dinde aux marrons | ca va | comment sava | sela vie<br />
+16: De Gaulle moyenne | Grande bouffe | La dinde | filets de la carpe sautes<br />
+15: Des chants de. Noel | Des filets de la caepe sautes | Elle parlant de qui | Je me couche | et voila (...2 more)<br />
+<h3>frpl - pl - phrase-all (last 1h)</h3>
+11: proszę bardzo<br />
+8: Ta toateta<br />
+7: Skoczek narciarski<br />
+6: polsko francuski<br />
+5: A ski<br />
+4: C'est ce-que | Il pleut de cordes | bien sur | et voila | nie wierzę | slownik polsko francuski<br />
+3: Syrop klonowy | Wspomniemna są piękne i smutne zarazem. | bon appetit | ca va | chodzę do liceum | czarny rynek | dobre wieczor | między innymi | pod znakiem zapytania | si cala fon | skręcać w prawo | ça été ta journée<br />
+2: mam 20 lat | za 20 lat bede miala 37lat. bede miala piekne rożowe wlosy i tatuaze. bede tancerka w telewizji. zrobie kurs makijazu. bede miala dwa koty i zolwia. bede jezdziła wlasnym samochodem do pracy. (...88 more)<br />
+<h3>frpl - pl - phrase-all (last 24h)</h3>
+126: slownik polsko francuski<br />
+64: polsko francuski<br />
+27: JE T AIME<br />
+24: proszę bardzo | si cala fon<br />
+20: le filet<br />
+17: Nazywam się | ca va<br />
+15: Pogorszyć sié | et voila | ça été ta journée<br />
+14: Une table | nie ma za co | viande d a gneu<br />
+12: Faire les co | Rozumienie ze słuchu | bien sur | Ça me va<br />
+11: Avis des sommes a payer | Ja chcę pójść do sklepu | Kiedy kończysz lekcję | Pogorszyć się | dzień dobry | un kiwi | viande de porc (...4 more)<br />
+<h3>frpl - unknown - phrase-all (last 1h)</h3>
+2: chodzę do liceum | wyrzucać śmieci<br />
+1: Désolé de l'avoir égaré, on s'est fait une belle frayeur | Manuel, to jakis nowy ekspert do Degasa? | Tu sais la femme dans une relation pour moi c'est celle qui ne fuit ces engagements quelque soit le jadis vécu. Je saurai fabriquer celle qui veut vraiment avoir un engagement sans avoir peur et se donnera a fond pour que ensemble nous soyons qu'un. Je suis pas parfait j'ai aussi des défauts et des qualités. Je suis très bien consciente de ma vie et de ce qui me rendra heureux. Je sais aussi que c'est pas facile quand on n'a eu mal ou on n'a été blesser ou déçu par quelqu'un une fois ou même quand on n’a peur d’avoir mal ou d’être trahir. Je suis bien d’accord que tu es peur d’être déçu . Mais quand on veut être heureux quelque soit ce qu’on n’a vécu dans le passé on essaie d’oublier un peu le jadis et je ne sais quoi d'autres on le met de côté et on vit une vie sans regret une vie sans peur. Si tu crois vraiment en toi et moi tout est possible restons juste unis et fort dans l’esprit. On sera un couple bien demain. Je ne suis pas un homme qui profite au déprimant des autres. Je ne profite pas de la faiblesse de celle qui est amoureuse de moi mais je fais de mon possible pour qu’on ne soit pas déçu de moi. | blason defraichi | cechy teatru | drzwi znajdowały by się pomiędzy dwoma kolumnami | im wiecej milosci dajesz tym bardziej jestes kochany i piekny | jestem Tosia nie mowie po francusku | kolorem przewodnim byłby ecru | lourd a digrerer | mam osiem lekcji | nie mowie po francusku | praca biurowa | praca za biurkiem | praca za biurkoem | przed wejściem znajdowały by się dwie kolumny | pływać na łódce | quel age il ja | sezon sie zbliża | sujet dans un expérience | w zeszły poniedziałek brałam udział w spotkaniu z bardzo znanym pisarzem - | w zeszły poniedziałek uczestniczyłam w spotkaniu z bardzo znanym pisarzem -<br />
+<h3>frpl - unknown - phrase-all (last 24h)</h3>
+6: Fake news<br />
+4: Natrafić nacoś<br />
+2: J'ai le temps de réviser | Je me suis enregistré le 23 | le croissant du trottoir | wyrzucać śmieci<br />
+1: Jak widza tak piszą, kartka blednie Jesteśmy sympatycznym atramentem | Moi tant qu’on cherche pas à me toucher la bite | W jakich językach potrafisz mówić? | byłam z chłopakiem w afryce | gdy masz własną agencję | globulki dopochwowe | ja lubie jego | ja tobie odpisuję | jak tam Teoje życie z dnia na dzień | ma chérie, J’ai essayé de t’appeler plusieurs fos mais tu ne réponds pas, alors, je t’écris un mél. | na pewno Ty bedziesz miał kolegę bo jest za mało ławek | nie wiem , geje są dziewni. może przez to że jestem Versa, myślisz że nie możesz mieć ze mną dobrego seksu | oni patrzą na chłopca | palce u stóp | praca za biurkiem | pracować jako kelnerka | przed wejściem znajdowały by się dwie kolumny | rozkoszowac sie dobra pogoda | wyrzucić z pracy (...552 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 1h)</h3>
+15: Le droit penal<br />
+14: Le polar | qui vole un oeuf vole un boeuf<br />
+11: La tante<br />
+10: La soeur<br />
+8: La legalite<br />
+7: BON VAJAZ | L aveu<br />
+3: Encre Noire | Ok je vais te bloquer c'est la meilleure solution parce que tu m'aime pas, j'ai besoin de ton aide comme aide de tout le monde et tout ce que tu trouve a me dire c'est que je t'aime pas parce que j'ai demandé de faire ton possible pour moi, sa se voit que tu es pas prête a m'aider | conditioner apres shampooing | si cala fou<br />
+2: Au coeur d’un parc animalier de Lorraine, une jolie cabane vous accueille pour la nuit. Preparez-vous a observer les loups blancs depuis votre fenetre. Ce n’est pas le confort moderne, mais le decor est tout a fait charmant. Un copieux panier-repas vous est livre sur place. Vous pouvez diner a la bougie sur la grande terrasse,avec, a deux pas, derriere la baie vitree, les loups qui vous regardent 
+
+Ou se situent ces deux sejours
+Quels animaux peut-on y observer 
+Comment sont servis les repas | Considérant les polémiques qu’a provoqué la parution de l’ouvrage Des profondeurs de nos cœurs, il est décidé que l’auteur du livre sera pour les publications à venir : Card Sarah, avec la contribution de Benoît XVI. En revanche, le texte complet demeure absolument inchangé. | Croire ce que tu as envie de croire , moi j'ai rien a te dire, tu veux pas m'aider, mais  tu as la bouche de me traiter de tout les nom , je souffre déjà parce que je suis bloqué ici et toi ton rôle en ce moment c'est de aggraver mon problème. J'ai pas de justification a te donner toi même tu sais pourquoi nos rêves sont tombé a l'eau | Foie gras | Je ne suis pas a la recherche de qui que ce soit , je t'avais que toi dans ma vie a présent je vais rester tout seul, donc pense tout ce que tu veux | Tu sais la femme dans une relation pour moi c'est celle qui ne fuit ces engagements quelque soit le jadis vécu. Je saurai fabriquer celle qui veut vraiment avoir un engagement sans avoir peur et se donnera a fond pour que ensemble nous soyons qu'un. Je suis pas parfait j'ai aussi des défauts et des qualités. Je suis très bien consciente de ma vie et de ce qui me rendra heureux. Je sais aussi que c'est pas facile quand on n'a eu mal ou on n'a été blesser ou déçu par quelqu'un une fois ou même quand on n’a peur d’avoir mal ou d’être trahir. Je suis bien d’accord que tu es peur d’être déçu . Mais quand on veut être heureux quelque soit ce qu’on n’a vécu dans le passé on essaie d’oublier un peu le jadis et je ne sais quoi d'autres on le met de côté et on vit une vie sans regret une vie sans peur. Si tu crois vraiment en toi et moi tout est possible restons juste unis et fort dans l’esprit. On sera un couple bien demain. Je ne suis pas un homme qui profite au déprimant des autres. Je ne profite pas de la faiblesse de celle qui est amoureuse de moi mais je fais de mon possible pour qu’on ne soit pas déçu de moi. | bon de livraison | doczekać się | feuille de brick | foncer les sourcils | le chemisier | le perlage | zapierajacy dech (...7 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 24h)</h3>
+27: si cala fon<br />
+19: Aux marrons<br />
+18: Est ce que tu aimes les chats | Les gros haricots<br />
+17: La bûche de noel | La dinde aux marrons | comment sava | sela vie<br />
+16: Grande bouffe | filets de la carpe sautes<br />
+15: Des chants de. Noel | Des filets de la caepe sautes | Elle parlant de qui | Je me couche | La dinde | Le droit penal | Mettre au placard<br />
+14: Le pain | Le polar | bonjour mon amour | haricots blancw<br />
+13: Je me coiche | Quand tu finis les leçons | Tu vien en voitures | żeli papą (...2 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 1h)</h3>
+6: polsko francuski<br />
+4: slownik polsko francuski<br />
+3: Wspomniemna są piękne i smutne zarazem. | chodzę do liceum | dobre wieczor | ça été ta journée<br />
+2: bardzo bardzo dobra | bardzo czesto | bardzo dobra | dzisiaj pogoda jest piękna | im wiecej milosci dajesz tym bardziej jestes kochany i piekny | jestem Tosia nie mowie po francusku | jutro będziemy odpoczywać i pakować nasze walizki | każda kobieta chce się podobać
+każdy człowiek jest śmiertelny
+opowiedział nam cały film | kuchnia jest wyśmienita | mam osiem lekcji | mieszkańcy są bardzo mili i uprzejmi | nie kazdy | nie każdy | revision a prevoir | schody hiszpańskie | to był wspaniały dzień | wieczorem będziemy spacerować po nocnym Rzymie i podziwiać piękne widoki | włoska kuchnia jest najlepsza na świecie | za 20 lat bede miala 37lat. bede miala piekne rożowe wlosy i tatuaze. bede tancerka w telewizji. zrobie kurs makijazu. bede miala dwa koty i zolwia. bede jezdziła wlasnym samochodem do pracy. (...32 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 24h)</h3>
+126: slownik polsko francuski<br />
+64: polsko francuski<br />
+15: Pogorszyć sié | ça été ta journée<br />
+12: Rozumienie ze słuchu<br />
+11: Ja chcę pójść do sklepu | Kiedy kończysz lekcję | Pogorszyć się<br />
+10: Nie zgadzamy się<br />
+9: Gram na gitarze | O której godzinie kończysz lekcję | Ty Jedziesz samochodem ? | Ty jedziesz samochodem | że słi<br />
+8: Palce u rąk | Twoja jagoda | Ty Jedziesz samochodem | bon noir | faktura korekta | palce u stóp | seks rus<br />
+7: Ja chcę | Ja chcę pójść | le bon coin | uwielbiam cie kochany (...1 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 1h)</h3>
+20: Se gacher<br />
+15: Se gachem<br />
+8: Ta toateta<br />
+6: Skoczek narciarski<br />
+4: Aller diner | Il pleut de cordes<br />
+3: Ciel voilé | Syrop klonowy<br />
+2: ENTRE quilement | chodzę do liceum | la creme fraiche | mieć oczekiwania | savoir gagner | wyrzucać śmieci<br />
+1: Manuel, to jakis nowy ekspert do Degasa? | dark brunette | im wiecej milosci dajesz tym bardziej jestes kochany i piekny | kolorem przewodnim byłby ecru | praca za biurkiem | praca za biurkoem | prendre l'engagement | przed wejściem znajdowały by się dwie kolumny | tant bque | un aveu | À peine quarante (...71 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 24h)</h3>
+20: Se gacher | le filet<br />
+19: viande de veau<br />
+17: Nazywam się<br />
+16: De Gaulle moyenne<br />
+14: Le pain azyme | Se gachem | viande d a gneu<br />
+13: Esperer de | J'ai un chien | l' oie<br />
+12: En une minute | Faire les co | Le bifteck | Ça me va<br />
+11: Avis des sommes a payer | Jeune fils | Le coq | Le gigot | Point barre | un kiwi<br />
+10: Farmer la potre | Viande crue | la coq | viande grasse (...10 more)<br />
+<h3>frpl - fr - entry-ids (last 1h)</h3>
+27: Efrpl22002314: tenir<br />
+21: Efrpl21927993: entrer<br />
+18: Efrpl21927884: entrée<br />
+15: Efrpl21969191: nue<br />
+14: Efrpl53963557: être aux anges<br />
+13: Efrpl21979946: pouvoir | Efrpl21979977: pouvoir | Efrpl34978708: se pouvoir<br />
+12: Efrpl21888682: arrière-grand-père, arrière-grand-père | Efrpl21930366: être | Efrpl21976365: peut-être | Efrpl21984381: ranger | Efrpl21999445: supérieur | Efrpl21999451: supérieur | Efrpl22001028: taper | Efrpl34905125: être imputable à | Efrpl53844740: passer/donner un coup de fil | Hfrpl21983035: quatre-vingt-dixième<br />
+11: Efrpl21943683: grand-père, grand-père | Efrpl21979836: pourtant | Efrpl21983363: qui est-ce que | Efrpl21993002: savoir-faire | Efrpl37015976: aimer | Hfrpl21983028: quatre-vingt-dix | Hfrpl21983056: quatre-vingt-un (...1 more)<br />
+<h3>frpl - fr - entry-ids (last 24h)</h3>
+141: Efrpl21976365: peut-être<br />
+105: Efrpl36972145: avoir un coup de coeur<br />
+88: Efrpl33392193: avoir l'esprit mal tourné<br />
+86: Efrpl22012401: voir<br />
+70: Efrpl21891783: avoir<br />
+36: Efrpl21987770: renverser<br />
+35: Efrpl21997164: sortir<br />
+32: Efrpl21912272: cour<br />
+31: Efrpl21913676: croire | Efrpl22012513: voiture-lit, voiture-lit<br />
+29: Efrpl21937629: fort<br />
+23: Efrpl21914877: dans | Efrpl21951944: inscrire<br />
+20: Efrpl21962447: meilleur | Efrpl22012507: voiture-bar<br />
+18: Efrpl21949611: importer<br />
+17: Efrpl21986489: regarder | Efrpl22012498: voiture<br />
+16: Efrpl21911011: coq | Efrpl21912214: coupe-vent | Efrpl21974401: pâtissier<br />
+14: Efrpl21901528: casse-cou | Efrpl21902844: chaleureux | Efrpl21902878: chambrer | Efrpl22001812: téléphoner (...1 more)<br />
+<h3>frpl - pl - entry-ids (last 1h)</h3>
+10: Efrpl22073017: kask | Efrpl22114897: polski<br />
+9: Efrpl22119008: prestiżowy<br />
+8: Efrpl22157439: wyszczególniać<br />
+7: Efrpl22132685: skręcać<br />
+6: Efrpl22053653: dworzec | Efrpl22084660: luty | Efrpl22087195: marzec | Efrpl22142738: tenis | Efrpl22143276: tłumacz | Efrpl22146162: ulica<br />
+5: Efrpl22033452: amant | Efrpl22065687: hałas | Efrpl22066489 | Efrpl22082029: kwaśny | Efrpl22093095: nagi | Efrpl22110056: pięćdziesiąt | Efrpl22110143: piętnaście | Efrpl22129035: równy | Efrpl22133312: słony | Efrpl22167882: zmywarka | Efrpl35004599: nie mniej jednak<br />
+4: Efrpl22061381: gaza | Efrpl22151961: wkładać | Efrpl22156104: wymowa (...8 more)<br />
+<h3>frpl - pl - entry-ids (last 24h)</h3>
+61: Efrpl22088864: mieć<br />
+46: Efrpl22143276: tłumacz<br />
+38: Efrpl22156104: wymowa<br />
+34: Efrpl22098846: nowy<br />
+31: Efrpl22043993: chcieć<br />
+29: Efrpl22047259: cześć | Efrpl22047304: część<br />
+23: Efrpl22107170: pakować<br />
+21: Efrpl22114492: pokrowiec | Efrpl22114897: polski | Efrpl22141898: tak<br />
+20: Efrpl22119451: promocja<br />
+19: Efrpl22094560: nauczyciel | Efrpl22139871: szybki | Efrpl22158864: zabierać | Efrpl22167948: znaczyć<br />
+18: Efrpl22093514: naleśnik | Efrpl35004599: nie mniej jednak<br />
+17: Efrpl22107454: PAN | Efrpl22107460: pan | Efrpl22131062: sen<br />
+15: Efrpl22070037: jasny | Efrpl22119868: próbować | Efrpl22154379: wybór | Efrpl34074239: rodzony brat (...6 more)<br />
+<h3>frpl - fr - translation-ids (last 1h)</h3>
+14: Tfrpl21981051: je t'en/vous en prie<br />
+11: Tfrpl21895015: bienvenue! | Tfrpl22012334: voilà<br />
+9: Tfrpl21973733: partir à la campagne/dans le Midi<br />
+8: Tfrpl21890747: bon appétit! - merci, vous aussi! | Tfrpl21904086: avoir les cheveux courts/longs | Tfrpl21907510: comment ça va?<br />
+6: Tfrpl21885220: comment ça va | Tfrpl21885234 | Tfrpl21885256 | Tfrpl21899278: ça va? | Tfrpl21904938: comme ci comme ça | Tfrpl21907469 | Tfrpl21934160: vêtements de femmes | Tfrpl21944277: vêtements griffés | Tfrpl21947266: vêtements pour hommes | Tfrpl21965969 | Tfrpl21971908: outre-Manche | Tfrpl21973689: cours particuliers | Tfrpl22010643: des vêtements | Tfrpl32248698: elles n’arrivent plus à trouver des vêtements à leur taille.<br />
+5: Tfrpl21929563: s'essuyer les pieds | Tfrpl21956007: la | Tfrpl21983117: [qu'est-ce] que c'est beau! | Tfrpl22005811: trafic transmanche (...10 more)<br />
+<h3>frpl - fr - translation-ids (last 24h)</h3>
+97: Tfrpl22004630: tour de France<br />
+95: Tfrpl21935457: fin de siècle<br />
+60: Tfrpl21907469: comme ci comme ça<br />
+48: Tfrpl21890747: bon appétit! - merci, vous aussi!<br />
+36: Tfrpl21907510: comment ça va?<br />
+33: Tfrpl21992101: toute la salle | Tfrpl21996472: du soir au matin<br />
+31: Tfrpl21995210: si<br />
+30: Tfrpl21962960: merci bien<br />
+27: Tfrpl22007303: si ça se trouve, il va pleuvoir<br />
+25: Tfrpl21891874: avorter | Tfrpl21899278: ça va?<br />
+22: Tfrpl21925985: je peux t'emprunter 1000 euro/ta voiture? | Tfrpl21962961: merci à vous pour tout<br />
+21: Tfrpl21962959: merci<br />
+20: Tfrpl21891835: il n'y a pas de quoi!<br />
+18: Tfrpl21960140: mais oui, bien sûr! | Tfrpl33365093: de temps à autre<br />
+17: Tfrpl21973413: parler français<br />
+16: Tfrpl21972481: panier à provisions<br />
+15: Tfrpl21901990: cela fait dix jours que j'attends | Tfrpl21948583: d'ici demain | Tfrpl21995091: sex-appeal<br />
+14: Tfrpl21973733: partir à la campagne/dans le Midi<br />
+13: Tfrpl35055403: je ne peux pas me rappeler<br />
+12:  (...1 more)<br />
+<h3>frpl - pl - translation-ids (last 1h)</h3>
+14: Tfrpl22036863: bardzo proszę<br />
+8: Tfrpl22098496: w nogi!<br />
+7: Tfrpl22059360: języki fleksyjne | Tfrpl22116394: w porządku! | Tfrpl22144993: mam cię!<br />
+6: Tfrpl22060850: galanteria | Tfrpl22060857: wyroby galanteryjne | Tfrpl22080801: on ma krzywe nogi | Tfrpl22082890: prywatne lekcje | Tfrpl22082893: odrabiać lekcje | Tfrpl22103004 | Tfrpl22103005 | Tfrpl22103006 | Tfrpl22103012: odzieżowy | Tfrpl22117366: nie potrzebujesz tego robić | Tfrpl22133377: języki słowiańskie | Tfrpl22133591: co słychać? | Tfrpl22146389 | Tfrpl22149167 | Tfrpl22149264 | Tfrpl22165344: jak zdrowie?<br />
+5: Tfrpl22119458: promocja do następnej klasy | Tfrpl22141345: światła drogowe długie | Tfrpl22166747: zimno mi w nogi | Tfrpl22168824: zrywać się na równe nogi (...28 more)<br />
+<h3>frpl - pl - translation-ids (last 24h)</h3>
+56: Tfrpl22141906: kocham cię – ach tak?<br />
+35: Tfrpl22144993: mam cię!<br />
+34: Tfrpl22043064: cała ona! | Tfrpl22094251: następny proszę!<br />
+33: Tfrpl22043065: cała nuta<br />
+31: Tfrpl22165231: zdobyć się na zrobienie czegoś | Tfrpl22165344: jak zdrowie?<br />
+30: Tfrpl22116394: w porządku!<br />
+28: Tfrpl22055145: dziękuję [bardzo]!<br />
+24: Tfrpl22105639: osiągać miejsce przeznaczenia | Tfrpl22153052: wpływać<br />
+22: Tfrpl22094772: dziękuję, nawzajem!<br />
+20: Tfrpl22129351: proszę się nie ruszać | Tfrpl22130351: mieć dobre/paskudne samopoczucie<br />
+19: Tfrpl22032018: ach, jakie to dobre! | Tfrpl22044115: mieć dobre/złe chęci | Tfrpl22082483: ile masz lat?<br />
+18: Tfrpl22070237: jedna druga | Tfrpl22094506: naturalnie kręcone włosy | Tfrpl22153211: wywrzeć na kimś dobre/złe wrażenie<br />
+17: Tfrpl22045432: ciągnąć kogoś za włosy/rękaw | Tfrpl22069323: w istocie | Tfrpl22104497: opaska na włosy | Tfrpl22117316: to nie potrwa długo | Tfrpl22129388: rwać sobie włosy z głowy<br />
+16:  (...1 more)<br />
+</body>
+</html>
