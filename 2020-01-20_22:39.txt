@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta charset="utf-8" />
+  <title>Top</title>
+</head>
+<body>
+<h2>Stats for Mon, 20 Jan 2020 22:39:18 +0100</h2><h3>frpl - fr - keyword-all (last 1h)</h3>
+17: régler<br />
+15: embraquer<br />
+14: pas<br />
+12: Chaudronnier | Zaleta | moins<br />
+11: Embraqyer | Rénovation | encor | espèce<br />
+10: Abaiser | habitude<br />
+9: Repudier | Répudier | règle<br />
+8: Meritent | Noveau | Ojciec | accoutumer | boulverad | enviable | linge | prodigieux | ruer | voir (...3 more)<br />
+<h3>frpl - fr - keyword-all (last 24h)</h3>
+75: devoir<br />
+74: être<br />
+71: faire<br />
+47: pouvoir<br />
+46: dire<br />
+34: boire<br />
+28: beau<br />
+24: au | mais<br />
+23: moins<br />
+21: du | revenir<br />
+19: mesurer | vider<br />
+18: joindre<br />
+17: avant | mari<br />
+16: Maisom | dîner | fort | rester<br />
+15: ce | ferme<br />
+14: gorger | głosowe<br />
+13:  (...5 more)<br />
+<h3>frpl - pl - keyword-all (last 1h)</h3>
+12: Chodować | wychodzić<br />
+11: GMO | Merci<br />
+10: Abaiser | odgłos | zbierać<br />
+9: Avenir | Ogm | Repudier | Répudier | budzić | huk<br />
+8: Meritent | Pasożyt | przenikliwy | przerwastres | szczerzyć | wycieraczka | wyjść | wystający<br />
+7: Labial | Ocena | Sterczący | noc (...2 more)<br />
+<h3>frpl - pl - keyword-all (last 24h)</h3>
+58: tłumacz<br />
+40: wymowa<br />
+28: petarda<br />
+24: dobranoc<br />
+22: Witanie | kurwa<br />
+21: siłownia<br />
+20: brat | tak<br />
+19: dotyczyć | francusku<br />
+17: książka | pamiętać | później | siostra<br />
+16: Lepain | Polski | ciężko | proszę | wychodzić<br />
+15: Defis | Targ | często | owca | szybki (...2 more)<br />
+<h3>frpl - unknown - keyword-all (last 1h)</h3>
+2: na'treasure<br />
+1: selbstredend<br />
+<h3>frpl - unknown - keyword-all (last 24h)</h3>
+8: na'treasure<br />
+2: kouignoù-amann<br />
+1: 5700 | Umzug | będeę | decoupldirect | decuplrecueille | kwyrzdzic | kwyzdzuc | overhelming | owtsńap | potępiaćconverstoire | puorqoi | selbstredend | w%252Bsluzbie | yntsyzrok | {searchTerms} | ćśonożołz | śliwkowo-imbirowy | światłowstręt | ערםמם<br />
+<h3>frpl - fr - keyword-nomatch (last 1h)</h3>
+12: Chaudronnier | Zaleta<br />
+11: Embraqyer | Rénovation<br />
+10: embraquer<br />
+8: Ojciec<br />
+6: Zakupy | siosta<br />
+5: Bristol | Okciec | Truskawka<br />
+4: Amigi | Grzyby | Jabłko | Mysło | uwierzyć<br />
+2: Abon | chavet | chcielibysmy | demandee | funeralle | impeachment | pietine | supconner<br />
+1: ciastku (...134 more)<br />
+<h3>frpl - fr - keyword-nomatch (last 24h)</h3>
+49: Rehardee<br />
+32: Reharde<br />
+18: Bananad | Maquerau<br />
+16: Maisom | Pluca<br />
+15: Remete | Serial | gemmer<br />
+14: Creu | Croisillonne | Furnitures | Golfiarz | L'annuaire | Suffrire | genn<br />
+13: Adaptabilité | Confire | Coupanr | Croisillonner | Lekarz | Obiect | arondir | milrau | wynukajacyvz<br />
+12:  (...6 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 1h)</h3>
+12: Chodować<br />
+11: GMO | Merci<br />
+9: Avenir | Ogm<br />
+2: Balansowa | czeka | kolorystyka | nawiązuje | sukienice<br />
+1: Aider | Efrpl22099079 | Szatyn | amélioration | avancées | balayage | chargement | cinématographique | direstarsi | goulûment | kolorytyka | soupçons | syndical | tombé | zarobilibyśmy (...71 more)<br />
+<h3>frpl - pl - keyword-nomatch (last 24h)</h3>
+22: Witanie<br />
+16: Lepain<br />
+14: Crier | Toczeń | Ukladanie | Wokalistka<br />
+13: Powiernictwo | Zamawianie | avant<br />
+12: Chodować | Effer | ans<br />
+11: Effet | GMO | Merci | Murzdzek | Samaine<br />
+10: Bien | Exiger | Inoperant | brisée | operant<br />
+9: Butelk | Niebieska | Ogm (...4 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 1h)</h3>
+11: encor<br />
+10: Abaiser<br />
+9: Repudier | Répudier<br />
+8: Meritent | Noveau | boulverad | prodigieux | przerwastres<br />
+7: Labial | Sterczący | novelle<br />
+6: Abucias | Bella | Noeau | Prodigieux | Trançon<br />
+5: Oniad | p.ex | répudier<br />
+4: Familer<br />
+3: Beall<br />
+2: Clapton | ecnanevorp | raisoner (...5 more)<br />
+<h3>frpl - unknown - keyword-nomatch (last 24h)</h3>
+16: geure<br />
+15: Defis<br />
+14: Fitted | Poulpe | Tumide<br />
+13: Bayadier | Pasterque | Peri | Pusto<br />
+12: Ellision | Eteigner | Hereuse | Mamah | Trappiste | prennons<br />
+11: Actifement | Atendu | Chatelet | Clapton | Elision | Filmgeure | Inoubiable | Paradigmatique | Supris | girond (...6 more)<br />
+<h3>frpl - fr - phrase-all (last 1h)</h3>
+11: LA belle vitrine<br />
+10: Do tego<br />
+9: Crotte de nez<br />
+8: creme liquide<br />
+7: Expedition à domicicle | Oceny szkolne<br />
+6: comment sava | par exeple<br />
+5: La passe | si cala fon<br />
+4: Język francuski | Pojechać do | Si femme et moi partions en vacances, ca nous ferait du bien | Si j'allais a la montagne, j'apprendrais a skier | W jakim języku rozmiawz | au chante | enchanté mademoiselle | le bon coin | żeli papą<br />
+3: T'as bien une préférence ? | comme ci comme ca | cul de sac | dzień dobry | je men moque | se balader (...1 more)<br />
+<h3>frpl - fr - phrase-all (last 24h)</h3>
+74: comme ci comme ca<br />
+31: sela vie<br />
+28: si cala fon | żeli papą<br />
+22: comment sava<br />
+20: Panne baterie reharde | au revoir<br />
+19: je faire virer<br />
+17: Comment est Omar sy Comme acteur | Une carafe | et voila<br />
+16: proszę bardzo<br />
+15: Le etats unis | Non soumis | bon voyage | dzień dobry | panne de la direction<br />
+14: Grandes surfaces | Les vacances a la montagne<br />
+13: Le bureau de tabac | Les vances a la montagne | Petit commerce | Petit commerse | czynnosci dnia | mon ami (...1 more)<br />
+<h3>frpl - pl - phrase-all (last 1h)</h3>
+10: Do tego<br />
+7: Expedition à domicicle | Oceny szkolne<br />
+6: slownik polsko francuski<br />
+5: La passe | akcja harytatywna<br />
+4: Język francuski | Mam psa | Pojechać do | au chante | polsko francuski | ça été ta journée<br />
+3: Klimat bardzo się zmieni | dilater la rate | dzień dobry | moja rodzina | on powinien leżeć w łóżku | si cala fon | studium samotnosci | Ładna wystawa<br />
+2: Nastolatkowie są bardzo do nich przywiązani | jem śniadanie i ogladam serial | pojedziemy do stolicy | se reposer | wychodzè na dwor (...87 more)<br />
+<h3>frpl - pl - phrase-all (last 24h)</h3>
+66: polsko francuski<br />
+60: slownik polsko francuski<br />
+27: ça été ta journée<br />
+20: au revoir<br />
+17: et voila | si cala fon<br />
+16: proszę bardzo<br />
+15: bon voyage<br />
+14: Myślę że jesteś super | dzień dobry | kocham cię<br />
+13: mon ami<br />
+12: Bien sur | ca va | cos innego | nie ma za co | przedstawic sie | se lever<br />
+11: Dziękuję bardzo | JE T AIME | Le ronge | au chante | do zobaczenia | très bien | à detain (...2 more)<br />
+<h3>frpl - unknown - phrase-all (last 1h)</h3>
+2: on powinien leżeć w łóżku<br />
+1: C'EST LA FUCKING VIE | au dd | avoir la revelation | ben, comment ca se passera | bicie serca | bolalo mnie gardlo i mialam katar | bolą ją plecy | est ce que vous etes libre jeudi apres-midi ou vendredi matin | ide na dwor | idę spotkać sie | jem sniadanie i ogladam serial | jem sniadanie i oglam serial | jem śniadanie i ogladam serial | l’agent recruteur | o 14 | o 15 jem obiad | o 15 jem obias | pojedziemy do stolicy | que souhaitez-vous savoir exactement | ubieram sie i wychodze | wieża eifla | wychodze z domu | wychodzè na dwor | zamek królowej (...16 more)<br />
+<h3>frpl - unknown - phrase-all (last 24h)</h3>
+3: Bonjour Monsieur Jesiotr,
+
+Dimanche un peu mouvementé, mais j'ai avancé.
+Le dossier va partir.
+
+J'ai eu vendredi au téléphone, Mr Schulman (  33 6 08 16 09 83 email : michel.schulman@gmail.com) qui n'a plus de nouvelles des deux "messieurs" bien mal éduqués...
+Un des deux lui a parlé de votre collection et voulait le conduire chez vous en Pologne car il aurait été ravi de vous connaître.
+Je l'ai prévenu de mon désaccord mais comme nous continuons à travailler sur ce joli portrait je lui ai conseillé de traiter directement avec vous.
+Mr. Schulman est expert de plusieurs artistes et respecté de beaucoup de gens dans le domaine de l'art pour la qualité de son travail.
+
+En attendant voici les coordonnées du courtier dont je vous ai parlé et que j'ai prévenu :
+
+Mr. Ludwig MINSTER
+CEO der SD-Trading AG
+Milletlstrasse 24
+2560 NIDAU
+SUISSE
+Tél. :  41 75 401 0707
+
+C'est quelqu'un de correct et très bien élevé !...qui connaît beaucoup d'experts, de comités et de musées et qui traite en direct.
+Il peut faire appel à une amie commune, historienne de l'art, conférencière et professeur à la Sorbonne qui l'aide pour certaines recherches ou problèmes de traduction : Jeanette Zwingenberger (qui vient de sortir un brillant livre sur Leonardo Da Vinci).
+
+A plus tard..Je vous souhaite une très bonne journée.
+Laurette THOMAS<br />
+2: J'ai visité au Maroc | obcinać kwiaty<br />
+1: A na każdej przerwie obiadowej uczniowie będą sprzedawać zrobione własnoręcznie ciasta, A pieniądze zarobione sprzedaży przekażemy na cele charytatywne | Dobry wieczor, czy mial | Kiwamy sobie głową na powitanie | On vit sous tension et c'est tout l'temps sombre
+Et j'm'en fous dans l'fond, j'suis dans mon élément, eh
+J'suis dans mon élément eh, j'suis dans mon élément
+On vit sous tension et c'est tout l'temps sombre
+Et j'm'en fous dans l'fond, j'suis dans mon élément, eh
+J'suis dans mon élément eh, j'suis dans mon élément
+On vit sous tension et c'est tout l'temps sombre
+Et j'm'en fous dans l'fond, j'suis dans mon élément, eh
+J'suis dans mon élément eh, j'suis dans mon élément
+On vit sous tension et c'est tout l'temps sombre
+Et j'm'en fous dans l'fond, j'suis dans mon élément, eh
+J'suis dans mon élément eh, j'suis dans mon élément | chodzic po sklepach | czy zdarzyło się panu tłumaczyć? | dzieci powinny jeść więcej ważyw i owoców | etre loin devant | il achète un livre | jezeli bie sluchales wiadomosci | les causes de la violence des jeunes | les élèves recevoient | mardi matin a 11 heures | mój francuski ma się źle | na naszym ostatnim spotkaniu ustaliliśmy, że posiłki są niedobre | napięcie nervowe | nasze swiateczne kubki | ona jest zachwycona | pod koniec tygodnia | tam na wyspie | tu nes te fais pas un peu des idees? | usiądź wygodnie na kanapie zjeść pyszne ciasto i napić się herbaty (...424 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 1h)</h3>
+9: Crotte de nez<br />
+6: comment sava<br />
+4: Si j'allais a la montagne, j'apprendrais a skier | W jakim języku rozmiawz | enchanté mademoiselle | le bon coin | żeli papą<br />
+3: Si femme et moi partions en vacances, ca nous ferait du bien | T'as bien une préférence ? | je men moque<br />
+2: A la première occasion je vous enverrai une moustiques ! | Et donnez moi souvent de vos nouvelle s'il vous plaît 🙏🏽 | Je pourrais m'aggriper à ton cou plutôt ?😍 | Klimat bardzo się zmieni | Si ma famme et moi partions en vacances, ca nous ferait du bien | Si tu avais une  oone note en francais, je t'acheterai un velo | ben, comment ca se passera | dzwonię z ogłoszenia | est ce que vous etes libre jeudi apres-midi ou vendredi matin | ide na dwor | o 14 | ubieram sie i wychodze | un peu plus modere | vive la vie | Ça se passe bien là bas ? (...23 more)<br />
+<h3>frpl - fr - phrase-nomatch (last 24h)</h3>
+31: sela vie<br />
+28: żeli papą<br />
+22: comment sava<br />
+19: je faire virer<br />
+17: Comment est Omar sy Comme acteur<br />
+16: si cala fon<br />
+15: Le etats unis | Non soumis<br />
+14: Grandes surfaces | Les vacances a la montagne<br />
+13: Le bureau de tabac | Les vances a la montagne | Panne baterie reharde | Petit commerce | Petit commerse | Przede wszystkim<br />
+12: Comme benevol | Les sols | Qu' est- ce que tu aimes | decoulant de | detendrz vous | enchanté mademoiselle<br />
+11: Chemise se nuit | donneur d'ordre | naissance non desire (...3 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 1h)</h3>
+6: slownik polsko francuski<br />
+4: polsko francuski | ça été ta journée<br />
+3: Klimat bardzo się zmieni | on powinien leżeć w łóżku | studium samotnosci<br />
+2: Brak wolności | Decydując sie | Mój tata jest do mnie podobny | Na początku ty byś był białym a ja szarym | Nastolatkowie są bardzo do nich przywiązani | Od którego chcesz | Zalety i wady | czeksn na spotkanie z kim ciekawym | jego przekaz jest całkiem optymistyczny | jem śniadanie i ogladam serial | jest ubrana w | nawiązuje do problemu | o 15 jem obias | obraz ma stosowaną kolorystykę | ona chce | pojedziemy do stolicy | se reposer | sposob interpretowania | wychodzè na dwor (...38 more)<br />
+<h3>frpl - pl - phrase-nomatch (last 24h)</h3>
+66: polsko francuski<br />
+60: slownik polsko francuski<br />
+26: ça été ta journée<br />
+14: Myślę że jesteś super<br />
+12: przedstawic sie<br />
+10: Bien sur | Co drugi dzień | Pomóc z zakupami | To jest syn pani Anny | galeria handlowa | na wasze zdrowie<br />
+9: Po zycie humour | To jest syn | Wziąć oddech<br />
+8: Grać w szachy | Grać z kimś | Przychodzić do pracy | Wieża Eiffla | Znak nieskończoności | qu'est-ce qu'il y a<br />
+7: Blisko parku | Podróż zagraniczna | les mois<br />
+6: makaron carbonara | szanowny pan (...1 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 1h)</h3>
+11: LA belle vitrine<br />
+8: creme liquide<br />
+7: Expedition à domicicle<br />
+6: par exeple<br />
+5: akcja harytatywna<br />
+4: Pojechać do<br />
+3: Ładna wystawa<br />
+2: on powinien leżeć w łóżku | si cala fon | z rodoscia<br />
+1: Haricot blanc | boite mail | ce spoir | dans le neige | idę spotkać sie | jem śniadanie i ogladam serial | pałac królowej | piękny język | plan prévisionnel | pojedziemy do stolicy | sans intetet | se accrocher | se passionerpassionne | ubieram sie i wychodze | wychodzè na dwor (...97 more)<br />
+<h3>frpl - unknown - phrase-nomatch (last 24h)</h3>
+17: Une carafe<br />
+12: Arrêt du mouvement | Une fusée<br />
+11: De carte d'etudiant | La fleche | La parfumerie | Petite cuillere | belle photo | à detain<br />
+10: Collier en or | Haricot blanc | LA belle vitrine | Un pourboire | Être pale<br />
+9: Do robota | Drap de bain | Etre dans les cordes | Faire quitter | Lui il est etudiant | Podcinac skrzydła | Se emmener | Un frère | subir la vie | wykazać się<br />
+8: LA courgette (...14 more)<br />
+<h3>frpl - fr - entry-ids (last 1h)</h3>
+19: Efrpl21986611: régler<br />
+17: Efrpl34774578: pas trop mal<br />
+15: Efrpl53801216: ce n'est pas du jeu<br />
+14: Efrpl21967776: n'est-ce-pas | Efrpl21973800: pas | Efrpl21973829: pas<br />
+13: Efrpl37000942: tout du moins<br />
+12: Efrpl21964765: moins<br />
+11: Efrpl21929213: espèce | Efrpl21993002: savoir-faire<br />
+10: Efrpl21932612: faire | Efrpl21932812: faire-part | Efrpl21945380: habitude | Efrpl21956301: laisser-faire, laisser-faire | Efrpl31458976: faire des vagues | Efrpl37018764: Faire fi<br />
+9: Efrpl21962955: merci | Efrpl21986581: règle | Efrpl22012401: voir<br />
+8: Efrpl21884406: aider | Efrpl21956887: lave-linge, lave-linge | Efrpl21958122: linge | Efrpl21976365: peut-être | Efrpl21993628: sèche-linge, sèche-linge | Efrpl21994937: servir (...10 more)<br />
+<h3>frpl - fr - entry-ids (last 24h)</h3>
+111: Efrpl31458976: faire des vagues<br />
+103: Efrpl35005795: prendre des initiatives<br />
+89: Efrpl21976365: peut-être<br />
+88: Efrpl36972145: avoir un coup de coeur<br />
+74: Efrpl22012401: voir<br />
+67: Efrpl33392193: avoir l'esprit mal tourné<br />
+65: Efrpl37000942: tout du moins<br />
+52: Efrpl21891783: avoir<br />
+35: Efrpl21914877: dans<br />
+31: Efrpl21997164: sortir<br />
+28: Efrpl21912272: cour<br />
+26: Efrpl21913676: croire | Efrpl21963843: mille<br />
+25: Efrpl53908338: taille-haie<br />
+21: Efrpl21937629: fort | Efrpl21961198: marche<br />
+20: Efrpl21901560: casser<br />
+19: Efrpl21912333: courant | Efrpl21937542: former<br />
+18: Efrpl21902864: chambre | Efrpl21902878: chambrer<br />
+17: Efrpl21912214: coupe-vent | Efrpl22012513: voiture-lit, voiture-lit<br />
+16: Efrpl21962447: meilleur<br />
+15: Efrpl22011177: vieux (...1 more)<br />
+<h3>frpl - pl - entry-ids (last 1h)</h3>
+12: Efrpl22154476: wychodzić<br />
+10: Efrpl22101611: odgłos | Efrpl22164506: zbierać<br />
+9: Efrpl22042084: budzić | Efrpl22066949: huk<br />
+8: Efrpl22100698: ocena | Efrpl22108291: pasożyt | Efrpl22121529: przenikliwy | Efrpl22138368: szczerzyć | Efrpl22154640: wycieraczka | Efrpl34072398: wyjść z czegoś obronną ręką | Hfrpl22155439: wyjść<br />
+7: Efrpl22098429: noc | Efrpl22130319: samolot | Efrpl22146944: uprawa | Efrpl22151302: wieszać | Efrpl22157198: wystający<br />
+6: Efrpl22071058: język | Efrpl22083957: lizać | Efrpl22116554: posiłek | Efrpl22135141: sposób | Efrpl22162608: zarówno | Efrpl27547451: język<br />
+5: Efrpl22034796: argument | Efrpl22118868: prawy (...20 more)<br />
+<h3>frpl - pl - entry-ids (last 24h)</h3>
+59: Efrpl22143276: tłumacz<br />
+40: Efrpl22156104: wymowa<br />
+28: Efrpl22109161: petarda<br />
+26: Efrpl22034581: apteka | Efrpl22131830: siłownia<br />
+23: Efrpl22041193: brat | Efrpl22118523: praca | Efrpl34074239: rodzony brat<br />
+21: Efrpl22141898: tak<br />
+20: Efrpl22047259: cześć | Efrpl22047268: często | Efrpl22047304: część | Efrpl22142227: targ<br />
+19: Efrpl22046937: czas | Efrpl22052272: dotyczyć | Efrpl22107428: pamiętać | Efrpl22115243: pomoc | Efrpl22115493: ponieważ | Hfrpl22115315: pomóc<br />
+18: Efrpl22129536: rynek | Efrpl22154476: wychodzić<br />
+17: Efrpl22106722: owca | Efrpl22114897: polski | Efrpl22120711: przedszkole | Efrpl22135940: stadion (...2 more)<br />
+<h3>frpl - fr - translation-ids (last 1h)</h3>
+13: Tfrpl21929639: faire une estimation rapide de qc | Tfrpl21955186: je vous laisse juge<br />
+11: Tfrpl22013631: s'y entendre<br />
+10: Tfrpl21884769: à cela s'ajouter un nouveau problème | Tfrpl21903965: chercher à ce que | Tfrpl21920498: cela devais arriver | Tfrpl21978424: à [un] tel point que ... | Tfrpl21989274: retomber au même endroit | Tfrpl21996316: et ta sœur[, elle bat le beurre]? | Tfrpl22001950: tellement<br />
+7: Tfrpl21902560: certificat de scolarité | Tfrpl21912277: cour de l'école | Tfrpl21938168: fournitures scolaires<br />
+5: Tfrpl21905817 | Tfrpl21918413: dépasser | Tfrpl21956007: la | Tfrpl21956019: passer par là | Tfrpl21960058: passer la main | Tfrpl21971908: outre-Manche | Tfrpl21973978: passer par la porte | Tfrpl21983871: passer à la radio | Tfrpl21994784 | Tfrpl21999927: surplomber qc | Tfrpl22005811: trafic transmanche | Tfrpl22009940: s'il venait à passer par là (...8 more)<br />
+<h3>frpl - fr - translation-ids (last 24h)</h3>
+74: Tfrpl21904938: comme ci comme ça | Tfrpl21907469: comme ci comme ça<br />
+49: Tfrpl21935457: fin de siècle<br />
+41: Tfrpl21890747: bon appétit! - merci, vous aussi!<br />
+37: Tfrpl21962960: merci bien<br />
+28: Tfrpl21982727: pute<br />
+27: Tfrpl21962961: merci à vous pour tout<br />
+24: Tfrpl21962959: merci<br />
+23: Tfrpl21995210: si | Tfrpl22007303: si ça se trouve, il va pleuvoir<br />
+22: Tfrpl21996472: du soir au matin<br />
+21: Tfrpl113748063: la persistance de taux d'intérêt élevés<br />
+20: Tfrpl21973413: parler français<br />
+18: Tfrpl21958254: l'hébreu se lit de droite à gauche<br />
+17: Tfrpl21973529: d'une part..., d'autre part ...<br />
+16: Tfrpl21995197: si bien que<br />
+14: Tfrpl21899278: ça va? | Tfrpl21996316: et ta sœur[, elle bat le beurre]? | Tfrpl22008106: un jour<br />
+13: Tfrpl21983182: quelque peu | Tfrpl21983183: et quelque(s) 10 kg et quelques<br />
+12: Tfrpl21934061: féliciter qn de faire qc | Tfrpl21995174: ah si je les tenais!<br />
+11: Tfrpl21986714: se regrouper autour de qn | Tfrpl33365093: de temps à autre (...2 more)<br />
+<h3>frpl - pl - translation-ids (last 1h)</h3>
+10: Tfrpl22051507: dopłaciłem do tego | Tfrpl22051599: nie możemy do tego dopuścić | Tfrpl22051604: nie dopuszczę do tego | Tfrpl22095060: nic ci do tego<br />
+7: Tfrpl22040574: boisko szkolne | Tfrpl22122955: przybory szkolne | Tfrpl22141269: świadectwo szkolne<br />
+6: Tfrpl22107485: pancerz | Tfrpl22144993: mam cię! | Tfrpl22168539: zostać na noc<br />
+5: Tfrpl22036863 | Tfrpl22042782: bynajmniej nie uważam, że... | Tfrpl22043060: całymi godzinami siedzi przed telewizorem | Tfrpl22047438: ona jest po czterdziestce | Tfrpl22060727: gada, co mu ślina na język przyniesie | Tfrpl22072129: kanał La Manche | Tfrpl22108180: mówię pas | Tfrpl22143248: ujdzie w tłoku | Tfrpl22153807: proszę wstać, sąd idzie | Tfrpl22154370: wyborny | Tfrpl22157526: wyśmienity | Tfrpl22158225<br />
+4: Tfrpl22036327: pełen bak proszę! | Tfrpl22115397: pomysłowy | Tfrpl22119756: prowadzić psa na smyczy (...35 more)<br />
+<h3>frpl - pl - translation-ids (last 24h)</h3>
+52: Tfrpl22036863: bardzo proszę<br />
+44: Tfrpl22072129: kanał La Manche<br />
+42: Tfrpl22141906: kocham cię – ach tak?<br />
+41: Tfrpl22144993: mam cię!<br />
+37: Tfrpl22055145: dziękuję [bardzo]!<br />
+35: Tfrpl22094251: następny proszę!<br />
+28: Tfrpl22094772: dziękuję, nawzajem! | Tfrpl22129351: proszę się nie ruszać<br />
+25: Tfrpl22069323: w istocie<br />
+24: Tfrpl22165344: jak zdrowie?<br />
+23: Tfrpl22116394: w porządku!<br />
+22: Tfrpl22045211: chwilowo nie mam czasu | Tfrpl22156843: wyrażać się o kimś źle/dobrze | Tfrpl22167604: zmieniać coś w coś [innego]<br />
+21: Tfrpl22043064: cała ona! | Tfrpl22043065: cała nuta | Tfrpl22167970: ktoś nie zna dnia ani godziny<br />
+19: Tfrpl22047844: rutynowe czynności | Tfrpl22094248: następnego dnia<br />
+18: Tfrpl22081153: któregoś dnia<br />
+17: Tfrpl22082483: ile masz lat? | Tfrpl22165231: zdobyć się na zrobienie czegoś<br />
+15: Tfrpl22082484: mam piętnaście lat | Tfrpl22093010: mam nadzieję, że... | Tfrpl22153213: mam wrażenie, że...<br />
+14:  (...4 more)<br />
+</body>
+</html>

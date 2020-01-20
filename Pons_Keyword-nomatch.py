@@ -18,4 +18,4 @@ for chunk in res.iter_content(100000):
     ponsFile.write(chunk)
 ponsFile.close()
 
-print("File '", file_name, "' has been created.")
+print("File ", file_name, " has been created.")
