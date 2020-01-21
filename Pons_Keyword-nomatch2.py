@@ -5,7 +5,7 @@
 import requests, datetime
 
 url = "https://top.pons.me/?dict=frpl"
-file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "NOMATCH_KEYWORDS.txt"
+file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "_NOMATCH_KEYWORDS.txt"
 
 # Download the page and saving the content in the top_list variable
 
@@ -57,4 +57,10 @@ for element in list_of_nomatch_keywords:
         list_of_nomatch_keywords.remove(element)
 print(list_of_nomatch_keywords)
 
-# TODO : SAVING LIST IN THE .TXT FILE
+# TODO : DEBUGGING
+
+ponsFile = open(file_name, "w+")
+for word in list_of_nomatch_keywords:
+    ponsFile.write(word + "\n")
+ponsFile.close()
+print("List of nomatch keywords has been saved in the new file:", file_name)
