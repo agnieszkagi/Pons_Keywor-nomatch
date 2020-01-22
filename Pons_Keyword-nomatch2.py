@@ -26,10 +26,17 @@ for chunk in res.iter_content(100000):
 encoding = "utf-8"
 text_encoded = top_list[0].decode(encoding)
 keyword_list = text_encoded.split("<h3>")
-nomatch_list = keyword_list[7:13]
+nomatch_list = []
+
+
+for element in keyword_list:
+    if element.find("keyword-nomatch") != -1:
+        nomatch_list.append(element)
+
 nomatch_keywords = "".join(nomatch_list)
 
-# Replacing words that are not dictionary keywords
+# Replacing phrases and special characters that are not dictionary keywords
+# Storing text with nomatch keywords in no_special_characters
 
 no_special_characters = (
     nomatch_keywords.replace("frpl - fr - keyword-nomatch (last 1h)</h3>", "")
@@ -48,19 +55,24 @@ no_special_characters = (
     .replace("\n", "")
 )
 
-# print(no_special_characters)
+# Removing digits from the text and storing the rest in no_digit
 no_digit = "".join([i for i in no_special_characters if not i.isdigit()])
+
+# changing no_digit text into list by spliting the keywords using |
 list_of_nomatch_keywords = no_digit.replace("||", "|").split("|")
 
+# Removing empty elements from the final list_of_nomatch_keywords
 for element in list_of_nomatch_keywords:
     if element == "":
         list_of_nomatch_keywords.remove(element)
-print(list_of_nomatch_keywords)
+# print(list_of_nomatch_keywords)
 
-# TODO : DEBUGGING
-
+# TODO : DEBUGGING, Eliminate too long words and words with special characters
+# Saving list of nomatch keywords into the .txt file
 ponsFile = open(file_name, "w+")
 for word in list_of_nomatch_keywords:
     ponsFile.write(word + "\n")
 ponsFile.close()
 print("List of nomatch keywords has been saved in the new file:", file_name)
+
+# TODO : SELENIUM PART
