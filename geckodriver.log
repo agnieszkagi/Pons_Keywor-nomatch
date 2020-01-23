@@ -25019,3 +25019,4 @@ JavaScript error: https://pl.pons.com/t%C5%82umaczenie?q=lool&l=frpl&in=&lf=fr&q
 JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 23: SecurityError: The operation is insecure.
 JavaScript error: https://assets.pons.com/assets/javascripts/app-min/result-E7E6CE6C.js?, line 1: SecurityError: The operation is insecure.
 JavaScript error: https://vidstat.taboola.com/vpaid/vPlayer/player/v10.9.0/OvaMediaPlayer.js, line 28: SecurityError: The operation is insecure.
+1579730334956	Marionette	INFO	Stopped listening on port 33147

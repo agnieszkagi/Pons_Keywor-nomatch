@@ -80,9 +80,3 @@ except:
 
 # TODO : SELENIUM PART
 # później wszystkie importy przenieść na górę
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-
-browser = webdriver.Firefox()
-browser.get("https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac=")
-cookie_button = browser.find_element_by_class_name("qc-cmp-button").click()
