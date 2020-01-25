@@ -9,7 +9,11 @@ from selenium.webdriver.common.keys import Keys
 ops = options()
 ops.set_preference("network.cookie.cookieBehavior", 2)
 browser = webdriver.Firefox(options=ops)
-browser.get("https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac=")
+try:
+    browser.get("https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac=")
+except Exception as exc:
+    print("There was a problem: %s" % (exc))
+
 
 """
 fp = webdriver.FirefoxProfile()

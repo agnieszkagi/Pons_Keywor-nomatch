@@ -25020,3 +25020,52 @@ JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 23: Secur
 JavaScript error: https://assets.pons.com/assets/javascripts/app-min/result-E7E6CE6C.js?, line 1: SecurityError: The operation is insecure.
 JavaScript error: https://vidstat.taboola.com/vpaid/vPlayer/player/v10.9.0/OvaMediaPlayer.js, line 28: SecurityError: The operation is insecure.
 1579730334956	Marionette	INFO	Stopped listening on port 33147
+1579975501172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePcCqjd"
+1579975501610	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579975501774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579975501777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579975501777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579975501777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579975503878	Marionette	INFO	Listening on port 41319
+1579975503937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.pons.com/assets/min/cmp-EA7A9E0B-min.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: https://quantcast.mgr.consensu.org/v27/cmp.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://assets.pons.com/assets/javascripts/mobile_responsive-min/mew_favorites_02a50a61aa11467df981549a368bac27.js?, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac= line 937 > scriptElement, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 23: SecurityError: The operation is insecure.
+1579975630613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSgP3dT"
+1579975631009	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579975631170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579975631173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579975631173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579975631173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579975633179	Marionette	INFO	Listening on port 37503
+1579975633222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.pons.com/assets/min/cmp-EA7A9E0B-min.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: https://quantcast.mgr.consensu.org/v27/cmp.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac= line 937 > scriptElement, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 23: SecurityError: The operation is insecure.
+JavaScript error: https://assets.pons.com/assets/javascripts/mobile_responsive-min/mew_favorites_02a50a61aa11467df981549a368bac27.js?, line 1: SecurityError: The operation is insecure.
+1579975641432	Marionette	INFO	Stopped listening on port 37503
+1579975649137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKipViU"
+1579975649556	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579975649722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579975649724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579975649725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579975649725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579975651868	Marionette	INFO	Listening on port 42645
+1579975651947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.pons.com/assets/min/cmp-EA7A9E0B-min.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: https://quantcast.mgr.consensu.org/v27/cmp.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://assets.pons.com/assets/javascripts/mobile_responsive-min/mew_favorites_02a50a61aa11467df981549a368bac27.js?, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac= line 937 > scriptElement, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://connect.facebook.net/en_US/fbevents.js, line 23: SecurityError: The operation is insecure.
+1579975670650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1UKmP1"
+1579975671050	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579975671209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579975671209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579975671210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579975671210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579975673108	Marionette	INFO	Listening on port 44877
+1579975673159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
