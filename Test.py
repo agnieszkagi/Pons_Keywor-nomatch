@@ -2,14 +2,15 @@
 # program downloads content from top.pons.me/?dict=frpl
 
 # import modules and defining values
-import requests, datetime
+import requests, datetime, sys
 import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options as options
 from selenium.webdriver.common.keys import Keys
 
+
 url = "https://top.pons.me/?dict=frpl"
-file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "_NOMATCH_KEYWORDS.txt"
+file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "_FINAL_LIST.txt"
 
 # Download the page and saving the content in the top_list variable
 
@@ -69,7 +70,6 @@ list_of_nomatch_keywords = no_digit.replace("||", "|").split("|")
 for element in list_of_nomatch_keywords:
     if element == "" or len(element) > 50:
         list_of_nomatch_keywords.remove(element)
-print("Number of keywords before checking: ", len(list_of_nomatch_keywords))
 
 # disable cookies:
 ops = options()
@@ -81,33 +81,47 @@ try:
 except Exception as exc:
     print("There was a problem: %s" % (exc))
 # keywords input
-input_elem = browser.find_element_by_id("q")
+input_elem = browser.find_element_by_name("q")
 input_elem.clear()
 input_elem.send_keys("test")
 input_elem.send_keys(Keys.RETURN)
-time.sleep(2)
 
-input_elem2 = browser.find_element_by_class_name("pons-search-input")
-input_elem2.clear()
-input_elem2.send_keys("drugitest")
-input_elem2.send_keys(Keys.RETURN)
 final_list = []
 
-"""
 for keyword in list_of_nomatch_keywords:
+
+    time.sleep(4)
+
+    input_elem2 = browser.find_element_by_name("q")
+    input_elem2.clear()
+
     input_elem2.send_keys(keyword)
+    input_elem2.send_keys(Keys.RETURN)
+
+    time.sleep(4)
+
     if "fuzzysearch" in browser.page_source:
         final_list.append(keyword)
-    input_elem2 = browser.find_element_by_class_name("pons-search-input")
-    input_elem.send_keys(Keys.RETURN)
-    time.sleep(3)
+    elif "no-dict-results" in browser.page_source:
+        final_list.append(keyword)
 
+browser.quit()
 
-
-
-input_elem.clear()
-
+print("Number of keywords BEFORE checking: ", len(list_of_nomatch_keywords))
 print("Number of keywords AFTER checking: ", len(final_list))
 
 print(final_list)
-"""
+
+try:
+    ponsFile = open(file_name, "w+")
+    ponsFile.write("THE LIST OF KEYWORDS THAN DON'T EXIST IN DICTIONARY" + "\n" + "\n")
+    for word in final_list:
+        ponsFile.write(word + "\n")
+    ponsFile.close()
+    print("Final list has been saved in the new file:", file_name)
+except:
+    print("Something went wrong...", sys.exc_info()[0])
+
+print("DONE")
+
+# TODO: USUNĄĆ Z LISTY KLUCZE ZAWIERAJĄCE ZNAKI TYPU #$@%
