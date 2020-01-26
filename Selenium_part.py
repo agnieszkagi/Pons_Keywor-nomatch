@@ -14,7 +14,12 @@ try:
 except Exception as exc:
     print("There was a problem: %s" % (exc))
 
+input_elem = browser.find_element_by_id("q")
+input_elem.clear()
+input_elem.send_keys("panoplia")
+input_elem.submit()
 
+# browser.close()
 """
 fp = webdriver.FirefoxProfile()
 fp.set_preference("network.cookie.cookieBehavior", 2)
