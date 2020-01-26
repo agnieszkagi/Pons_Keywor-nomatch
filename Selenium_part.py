@@ -1,3 +1,4 @@
+import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options as options
 from selenium.webdriver.common.keys import Keys
@@ -16,8 +17,19 @@ except Exception as exc:
 
 input_elem = browser.find_element_by_id("q")
 input_elem.clear()
-input_elem.send_keys("panoplia")
-input_elem.submit()
+
+#keyword list to be checked
+
+input_elem.send_keys(keyword)
+input_elem.send_keys(Keys.RETURN)
+time.sleep(3)
+1=0
+Final_list =[]
+
+if "fuzzysearch" in browser.page_source:
+    Final_list.append(keyword)
+    i +=1
+
 
 # browser.close()
 """

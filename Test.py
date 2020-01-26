@@ -2,7 +2,11 @@
 # program downloads content from top.pons.me/?dict=frpl
 
 # import modules and defining values
-import requests, datetime, sys
+import requests, datetime
+import time
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options as options
+from selenium.webdriver.common.keys import Keys
 
 url = "https://top.pons.me/?dict=frpl"
 file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "_NOMATCH_KEYWORDS.txt"
@@ -65,20 +69,45 @@ list_of_nomatch_keywords = no_digit.replace("||", "|").split("|")
 for element in list_of_nomatch_keywords:
     if element == "" or len(element) > 50:
         list_of_nomatch_keywords.remove(element)
-# print(list_of_nomatch_keywords)
+print("Number of keywords before checking: ", len(list_of_nomatch_keywords))
 
-# Saving list of nomatch keywords into the .txt file
+# disable cookies:
+ops = options()
+ops.set_preference("network.cookie.cookieBehavior", 2)
+browser = webdriver.Firefox(options=ops)
+# loading the pons website
+try:
+    browser.get("https://pl.pons.com/t%C5%82umaczenie?q=&l=frpl&in=&lf=fr&qnac=")
+except Exception as exc:
+    print("There was a problem: %s" % (exc))
+# keywords input
+input_elem = browser.find_element_by_id("q")
+input_elem.clear()
+input_elem.send_keys("test")
+input_elem.send_keys(Keys.RETURN)
+time.sleep(2)
+
+input_elem2 = browser.find_element_by_class_name("pons-search-input")
+input_elem2.clear()
+input_elem2.send_keys("drugitest")
+input_elem2.send_keys(Keys.RETURN)
+final_list = []
 
 """
-try:
-    ponsFile = open(file_name, "w+")
-    for word in list_of_nomatch_keywords:
-        ponsFile.write(word + "\n")
-    ponsFile.close()
-    print("List of nomatch keywords has been saved in the new file:", file_name)
-except:
-    print("Something went wrong...", sys.exc_info()[0])
+for keyword in list_of_nomatch_keywords:
+    input_elem2.send_keys(keyword)
+    if "fuzzysearch" in browser.page_source:
+        final_list.append(keyword)
+    input_elem2 = browser.find_element_by_class_name("pons-search-input")
+    input_elem.send_keys(Keys.RETURN)
+    time.sleep(3)
 
-# TODO : SELENIUM PART
-# później wszystkie importy przenieść na górę
+
+
+
+input_elem.clear()
+
+print("Number of keywords AFTER checking: ", len(final_list))
+
+print(final_list)
 """
