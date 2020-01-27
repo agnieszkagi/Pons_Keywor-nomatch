@@ -65,6 +65,8 @@ no_digit = "".join([i for i in no_special_characters if not i.isdigit()])
 
 # changing no_digit text into list by spliting the keywords using |
 list_of_nomatch_keywords = no_digit.replace("||", "|").split("|")
+# removing duplicates
+list_of_nomatch_keywords = list(set(list_of_nomatch_keywords))
 
 # Removing empty elements from the final list_of_nomatch_keywords
 for element in list_of_nomatch_keywords:
