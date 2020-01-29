@@ -50,7 +50,6 @@ no_special_characters = (
     .replace(" ", "")
     .replace("\n", "")
 )
-print(no_special_characters)
 
 # Removing digits from the text and storing the rest in no_digit
 no_digit = "".join([i for i in no_special_characters if not i.isdigit()])
@@ -77,8 +76,7 @@ for unwanted_keyword in unwanted_keywords:
     list_of_nomatch_keywords.remove(unwanted_keyword)
 
 print("Number of keywords to be checked in dictionary: ", len(list_of_nomatch_keywords))
-print("List of keywords: ")
-print(list_of_nomatch_keywords)
+print("List of keywords: ", list_of_nomatch_keywords)
 
 # SELENIUM PART
 

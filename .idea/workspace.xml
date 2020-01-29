@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1760baf1-c17f-4c25-a706-75f5f0998483" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pons_Keyword-nomatch2.py" afterPath="$PROJECT_DIR$/Pons_Keyword-nomatch2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.py" afterPath="$PROJECT_DIR$/Test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista - test.py" afterPath="$PROJECT_DIR$/lista - test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,24 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-386">
-              <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#105#141#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pons_Keyword-nomatch2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pons_Keyword-nomatch2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
-              <caret line="95" column="73" lean-forward="false" selection-start-line="95" selection-start-column="73" selection-end-line="95" selection-end-column="73" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -60,6 +49,7 @@
       <find>sourc</find>
       <find>file</find>
       <find>file_</find>
+      <find>prin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -73,8 +63,8 @@
         <option value="$PROJECT_DIR$/Pons_Keyword-nomatch.py" />
         <option value="$PROJECT_DIR$/Selenium_part.py" />
         <option value="$PROJECT_DIR$/lista - test.py" />
-        <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/Pons_Keyword-nomatch2.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
       </list>
     </option>
   </component>
@@ -121,21 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="ATBSWP_SELENIUM">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,6 +125,21 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="ATBSWP_SELENIUM">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +154,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pons_Keyword-nomatch2">
+  <component name="RunManager" selected="Python.Test">
     <configuration default="false" name="Pons_Keyword-nomatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,9 +383,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lista - test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lista - test" />
         <item index="3" class="java.lang.String" itemvalue="Python.Selenium_part" />
         <item index="4" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch" />
       </list>
@@ -432,7 +422,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5258064" sideWeight="0.20773481" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5250522" sideWeight="0.7922652" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32672232" sideWeight="0.44640884" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32672232" sideWeight="0.44640884" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -724,16 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="69" column="25" lean-forward="true" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-          <folding>
-            <element signature="e#105#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista - test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -744,9 +724,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pons_Keyword-nomatch2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="95" column="73" lean-forward="false" selection-start-line="95" selection-start-column="73" selection-end-line="95" selection-end-column="73" />
+        <state relative-caret-position="1458">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#105#141#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
