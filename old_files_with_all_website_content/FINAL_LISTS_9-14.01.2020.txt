@@ -1,0 +1,19 @@
+09-01-2020
+Number of keywords BEFORE checking:  135
+Number of keywords AFTER checking:  108
+['couchez-nous', 'éstabil', 'łyżwy', 'Indentifier', 'taffer', 'Zmielić', 'Suavite', 'Concet', 'endemit', 'Straszne', 'Bolacy', 'komunikatywność', 'Zaginięcie', 'Mebacer', 'bastingage', 'planquee', 'Originap', 'Notablenotoire', 'Assession', 'Écarlate', 'Zakwasic', 'Próbki', 'regain', 'Korektować', 'Epiphanie', 'Sąsiadka', 'Connaisez', 'Loisible', 'zadowo', 'Érode', 'Assesion', 'lekararz', 'Emmailloter', 'abine', 'Revendication', 'Soubir', 'Doie', 'Wiezyc', 'landemain', 'tapiner', 'Orginal', 'Spowodowany', 'Pijesz', 'soire', 'Zdobywanie', 'Emprut', 'Jamis', 'Spałem', 'prude', 'Ograniczyć', 'dessuns', 'Vacataire', 'éstabli', 'Joeux', 'salonie', 'Orginel', 'empreindre', 'Ladi', 'Connai', 'kobieya', 'achueteur', 'ratatouille', 'hotdog', 'defonser', 'Percepteur', 'Itancaise', 'Sand', 'Mem', 'balloter', 'Marmot', 'Podwyższenie', 'tchatcher', 'Esperent', 'intrygę', 'conjecturer', 'kryształu', 'Niezrozumienie', 'Hiverner', 'mądre', 'doleczki', 'effigier', 'Craigner', 'Fenir', 'MArynarki', 'Ourivier', 'enticher', 'Fehler', 'Ebhaissememt', 'arrièrepays', 'Agape', 'Approval', 'Cid', 'sillage', 'Indimisé', 'Arestation', 'Acession', 'Cursus', 'Bardxo', 'joye', 'ètas-unis', 'sauvaq', 'banian', 'bucolique', 'Doix', 'Badnie', 'Proscrire', 'Dumna', 'Zaparzyć']
+
+13-01-2020
+Number of keywords BEFORE checking:  138
+Number of keywords AFTER checking:  111
+['enne', 'fawela', 'Montet', 'Exercable', 'empeunter', 'licea', 'affecteux', 'escamoter', 'zeszyty', 'Suavite', 'Disquaire', 'geantes', 'Coflex', 'Cjateau', 'Tuelle', 'Concillante', 'Pupuce', 'Distraitement', 'Roid', 'Meksykanie', 'śniej', 'fouir', 'marszruta', 'pudlowac', 'Revelant', 'Podprogowy', 'Odzew', 'entiché', 'Bartir', 'Szturna', 'Primat', 'pracownika', 'Catalan', 'Ofglos', 'Drecha', 'jouese', 'Szatynka', 'pentelka', 'włożony', 'Żagiew', 'Float', 'centimen', 'Ascention', 'Politolog', 'commérer', 'Skrzat', 'Substituive', 'aderon', "L'horloger", 'Chapeu', 'malveillance', 'Convergance', 'Peruble', 'Ocir', 'skorupy', 'upamiętnić', 'Dibu', 'Alor', 'déhancher', 'L’oeuvre', 'Nox', 'Aceuil', 'Intendire', 'tétaniser', 'domy', 'lepaternel', 'aliteracja', 'atsem', 'Securisme', 'Fouberie', 'Primate', 'Cudenko', 'tra', 'Szatyn', 'iloczas', 'zniesmaczenie', 'Router', 'Kochamie', 'prozodia', 'Amore', 'Ślicznotka', 'Chedozony', 'soumission', 'Żony', 'Deponser', 'Usmiec', 'Hiszpanskojezyny', 'Wives', 'Demengar', 'Traiteur', 'Nerkowce', 'Minione', 'Aconsejas', 'gobr', 'emergence', 'nieprzychlny', 'maniché', 'enticher', 'Sio', 'Tro', 'Ceration', 'Pozmywac', 'granaille', 'Pacifier', 'porte-jarretelles', 'Owsianka', 'formułka', 'discuterer', 'embrance', 'repatriacja', 'manichéen']
+
+14-01-2020
+Number of keywords BEFORE checking:  143
+Number of keywords AFTER checking:  94
+['actuallement', 'Prmetre', 'Wida', 'Megre', 'Plaidoirie', 'Zygota', 'Powiernik', 'Burna', 'dlugopiw', 'Szczytować', 'Potezna', 'esclaffer', 'ingenieure', 'Peressuer', 'pieknie', 'piffrer', 'Conaissent', 'Reverance', 'imparti', 'Nowszy', 'Batteraves', 'technolog', 'Trendy', 'Ceduits', 'percussion', 'chambray', 'pieknje', 'Festaie', 'Pertinant', 'Guichey', 'seriale', 'Croyer', 'Prevaut', 'Boulee', 'zizanie', 'Bőtel', 'assiete', 'impartir', 'Czten', 'poniekąd', 'Grandee', 'prenon', 'Motricite', 'Raimet', 'Zaprzeczanie', 'Dorien', 'Pouf', 'Espahnile', 'Danae', 'Régurgitations', 'Drugw', 's`affairer', 'Connaise', 'Prioriser', 'Ładowarka', 'Caoacite', 'Act', 'Braguer', 'lychet', 'Drogon', 'Hirolige', 'Songe-creux', 'flatulence', 'Horologe', 'L’équitatiom', 'élagege', 'Naznaczony', "S'agir", 'Przyszyć', 'uśtawki', 'Invoquer', 'Zakopać', 'Debarasser', 'Hors-champ', 'aplhabet', 'Powodują', 'sse', 'Marinew', 'Inconsient', 'Professional', 'poskładany', 'Complex', 'ustatkowany', 'L’athlètisme', 'Bezpyłowe', 'Entertain', 'Genail', 'Souillure', 'Librete', 'Nottament', 'Cuisone', 'Tips', 'Głębokie', 'szczera']
+
+
+
+
+

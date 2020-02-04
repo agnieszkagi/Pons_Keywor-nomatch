@@ -126,7 +126,6 @@ print(final_list)
 
 try:
     ponsFile = open(file_name, "w+")
-    ponsFile.write("THE LIST OF KEYWORDS THAN DON'T EXIST IN DICTIONARY" + "\n" + "\n")
     for word in final_list:
         ponsFile.write(word + "\n")
     ponsFile.close()
