@@ -3,17 +3,31 @@
 # TODO : PREPARE STATISTICS (CHECK EVERY WORD AND MARK ONLY NOMATCH KEYWORDS)
 
 # import modules and defining values
-import sys
+import requests, bs4
 
-list1 = []
-filepath = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/FINAL_LISTS/2020-01-26_20:42_FINAL_LIST.txt"
 
-try:
-    with open(filepath, "r") as file:
-        for line in file:
-            word = line.replace("\n", "")
-            list1.append(word)
-            # line = line.replace("\n", ",")
-except:
-    print("Something went wrong...", sys.exc_info()[0])
-print(list1)
+list_of_keywords = ["",tutaj "będzie", "lis3%ta", "popojaa"]
+fuzzy_search = []
+w_slowniku = []
+page_content = []
+
+for element in list_of_keywords:
+    url = "https://pl.pons.com/tłumaczenie?q=" + element + "&l=frpl&in=&lf=fr&qnac="
+    res = requests.get(url)
+    try:
+        res.raise_for_status()
+    except Exception as exc:
+        print("There was a problem: %s" % (exc))
+    for chunk in res.iter_content(100000):
+        page_content.append(chunk)
+        encoding = "utf-8"
+        text_encoded = page_content[0].decode(encoding)
+        print(text_encoded)
+        if "fuzzysearch" in text_encoded:
+            fuzzy_search.append(element)
+        elif "no-dict-results" in text_encoded:
+            fuzzy_search.append(element)
+        else:
+            w_slowniku.append(element)
+print("fuzzy_search:", fuzzy_search)
+print("w_slowniku:", w_slowniku)
