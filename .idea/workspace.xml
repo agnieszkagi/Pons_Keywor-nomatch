@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1760baf1-c17f-4c25-a706-75f5f0998483" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-09_22:44.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-13_21:11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-13_22:43.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-13_22:47.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-13_22:48.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-14_20:29.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-14_22:55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-17_20:21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-19_22:28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-20_22:39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/2020-01-21_20:47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_files_with_all_website_content/FINAL_LISTS_9-14.01.2020.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-26_20:42_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-26_20:42_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-27_22:24_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-27_22:24_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-28_21:15_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-28_21:15_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-29_20:18_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-29_20:18_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-30_21:57_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-30_21:57_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-01-31_19:31_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-01-31_19:31_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-02-01_12:22_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-02-01_12:22_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-02-02_14:26_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-02-02_14:26_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-02-03_22:18_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-02-03_22:18_FINAL_LIST.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FINAL_LISTS/2020-02-04_18:59_FINAL_LIST.txt" afterPath="$PROJECT_DIR$/FINAL_LISTS/2020-02-04_18:59_FINAL_LIST.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raport z działania" afterPath="$PROJECT_DIR$/Raport z działania" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temporary.py" afterPath="$PROJECT_DIR$/Temporary.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.py" afterPath="$PROJECT_DIR$/Test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test2.py" afterPath="$PROJECT_DIR$/Test2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +43,8 @@
       <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="47" />
               <folding>
                 <element signature="e#105#141#0" expanded="true" />
               </folding>
@@ -42,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Temporary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Temporary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Temporary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="445" column="23" lean-forward="true" selection-start-line="445" selection-start-column="23" selection-end-line="445" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -54,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -100,17 +110,17 @@
         <option value="$PROJECT_DIR$/lista - test.py" />
         <option value="$PROJECT_DIR$/Pons_Keyword-nomatch2.py" />
         <option value="$PROJECT_DIR$/lista - duplikaty -test.py" />
-        <option value="$PROJECT_DIR$/Test2.py" />
-        <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/Temporary.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/Test2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="y" value="52" />
+    <option name="width" value="928" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -163,6 +173,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -177,7 +188,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,7 +202,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Temporary">
+  <component name="RunManager" selected="Python.Test2">
     <configuration default="false" name="Pons_Keyword-nomatch2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,23 +237,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="lista - test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ATBSWP_SELENIUM" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista - test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="lista - duplikaty -test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +267,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ATBSWP_SELENIUM" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Temporary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ATBSWP_SELENIUM" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -415,17 +425,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch2" />
       <item index="1" class="java.lang.String" itemvalue="Python.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.lista - test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lista - duplikaty -test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Temporary" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lista - duplikaty -test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Temporary" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Temporary" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Test2" />
         <item index="1" class="java.lang.String" itemvalue="Python.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.lista - duplikaty -test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lista - test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Temporary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lista - duplikaty -test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Pons_Keyword-nomatch2" />
       </list>
     </recent_temporary>
   </component>
@@ -452,17 +462,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="52" width="928" height="1028" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1069869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21657458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5258064" sideWeight="0.20773481" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28817204" sideWeight="0.7922652" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32672232" sideWeight="0.44640884" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33655915" sideWeight="0.44640884" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776618" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.4978166" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -740,39 +750,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_resolver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="157" column="41" lean-forward="false" selection-start-line="157" selection-start-column="41" selection-end-line="157" selection-end-column="41" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Temporary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="47" />
           <folding>
             <element signature="e#105#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Temporary.py">
+    <entry file="file://$PROJECT_DIR$/Test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="445" column="23" lean-forward="true" selection-start-line="445" selection-start-column="23" selection-end-line="445" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>

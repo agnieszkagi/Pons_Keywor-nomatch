@@ -127,7 +127,7 @@ print(final_list)
 try:
     ponsFile = open(file_name, "w+")
     for word in final_list:
-        ponsFile.write(word + "\n")
+        ponsFile.write("'" + word + "', ")
     ponsFile.close()
     print("Final list has been saved in the new file:", file_name)
 except:
