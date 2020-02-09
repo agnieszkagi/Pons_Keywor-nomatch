@@ -2,10 +2,10 @@
 # program downloads content from top.pons.me/?dict=frpl
 
 # import modules and defining values
-import requests, datetime, sys
+import requests, sys
 
 url = "https://top.pons.me/?dict=frpl"
-file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M") + "_LIST.txt"
+file_name = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/files_with_all_nomatches\9-14.02.2020_LIST (copy).txt"
 
 # Download the page and saving the content in the top_list variable
 print("Downloading page %s..." % url)
@@ -75,13 +75,19 @@ for unwanted_keyword in unwanted_keywords:
     list_of_nomatch_keywords.remove(unwanted_keyword)
 
 print("Number of keywords to be checked in dictionary: ", len(list_of_nomatch_keywords))
-print("List of keywords: ", list_of_nomatch_keywords)
+print("List of keywords to be added to the file : ", list_of_nomatch_keywords)
+
+list_content = ""
+
+for word in list_of_nomatch_keywords:
+    list_content += "'" + word + "', "
+print(list_content)
 
 try:
-    ponsFile = open(file_name, "w+")
-    for word in list_of_nomatch_keywords:
-        ponsFile.write("'" + word + "', ")
-    ponsFile.close()
-    print("Keyword list has been saved in the new file:", file_name)
+    with open(file_name, "w+") as myfile:
+        myfile.write(list_content)
+    print("Keyword list has been saved in the file:", file_name)
 except:
     print("Something went wrong...", sys.exc_info()[0])
+
+# TODO: CREATE ONE TXT. FILE FOR EVERY WEEK AND OVERWRITE IT
