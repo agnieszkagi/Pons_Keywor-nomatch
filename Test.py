@@ -123,7 +123,7 @@ print("Number of keywords BEFORE checking: ", len(list_of_nomatch_keywords))
 print("Number of keywords AFTER checking: ", len(final_list))
 
 print(final_list)
-
+"""
 try:
     ponsFile = open(file_name, "w+")
     for word in final_list:
@@ -134,3 +134,4 @@ except:
     print("Something went wrong...", sys.exc_info()[0])
 
 print("DONE")
+"""
