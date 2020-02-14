@@ -83,7 +83,7 @@ list_content = ""
 for word in list_of_nomatch_keywords:
     list_content += "'" + word + "', "
 
-file_name = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/files_with_all_nomatches/9-14.02.2020_LIST (copy).txt"
+file_name = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/files_with_all_nomatches/9-14.02.2020_LIST.txt"
 with open(file_name, "a") as myfile:
     myfile.write(list_content)
 print("-----------------------------------------------------")
