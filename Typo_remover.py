@@ -48,3 +48,5 @@ print(
 )
 
 print("Number of keywords : ", len(dictionary_keywords))
+
+# TODO percentage, status lsty,ile słow zostało do sprawdzenia
