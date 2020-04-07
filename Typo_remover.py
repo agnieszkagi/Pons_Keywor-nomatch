@@ -8,7 +8,6 @@ print(
 )
 
 
-keywords_to_be_checked = ""
 keywords_to_be_checked = input("Please enter the list of keywords to be checked : ")
 keywords_to_be_checked = keywords_to_be_checked.lower().replace("'", "")
 

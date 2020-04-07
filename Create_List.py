@@ -83,8 +83,10 @@ list_content = ""
 for word in list_of_nomatch_keywords:
     list_content += "'" + word + "', "
 
-file_name = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/files_with_all_nomatches/9-29.02.2020_LIST.txt"
+file_name = r"/home/agnieszka/PycharmProjects/ATBSWP_SELENIUM/files_with_all_nomatches/5.04.2020_LIST.txt"
 with open(file_name, "a") as myfile:
     myfile.write(list_content)
 print("-----------------------------------------------------")
 print("Keyword list has been saved in localisation: ", file_name)
+
+# TODO skrypt, który będzie na bieżąco usuwał duplikaty z pliku i zapisywał listę
